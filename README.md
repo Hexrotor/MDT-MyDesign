@@ -8,7 +8,7 @@
 2.左上为轰炸核心开关，开启后会直接拿爆混冲向敌方核心，不会返回。此开关比右上开关优先级低。</br>
 3.右上为跟随玩家开关，开启后会覆盖轰炸核心的命令，优先跟随玩家。玩家可带2~3个雷霆绕到敌方核心，并在接近时切换到轰炸核心命令。</br>
 4.分类器可以选择携带物，默认为爆混。</br>
-预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom.png</br>
+预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom.jpg</br>
 https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom.txt
 
 <h3>煤站改</h3>
