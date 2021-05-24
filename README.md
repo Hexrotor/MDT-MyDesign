@@ -44,5 +44,7 @@ https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/waterplus.txt
 
 钍站
 需要放入钍来启动(也可自启动)，启动过程会轻微负电。做成一体式是为了好看，实际操作还是按地形部署比较简便。
-预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.png https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png
-https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.txt https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png
+预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.png 
+PLUS预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png
+https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.txt
+https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png
