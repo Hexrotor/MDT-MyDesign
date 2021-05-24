@@ -47,4 +47,4 @@ https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/waterplus.txt
 预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.png </br>
 PLUS预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png</br>
 https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tu.txt</br>
-https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.png
+https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.txt
