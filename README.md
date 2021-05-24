@@ -28,7 +28,7 @@ https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.txt
 https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.txt
 
 <h3>石油站</h3>
-需要外部供应石油(供应点在左下)，可以在有石油的状态下可自启动，非常强大。和煤站一样，容易火灾。</br>
+需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。</br>
 预览: https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/petroleum.png</br>
 https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/petroleum.txt
 
