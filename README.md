@@ -56,6 +56,6 @@
 [PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.txt)<br>
 
 ### 废料冲击
-多余物品会被自动销毁，稳定后发电量7.7k左右。<br>
+可能需要绿带才能带动，多余物品会被自动销毁，稳定后发电量7.7k左右。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.txt)<br>
