@@ -1,7 +1,7 @@
 # Mindustry-Myblueprint
 萌新个人制作蓝图和逻辑，仅适用于战役。未参考他人作品，如有雷同纯属雷同，欢迎体验！
 
-### 雷霆敢死队1.1
+### 雷霆敢死队1.2
 控制雷霆自动从核心拿爆混后轰炸敌方炮塔或核心，并在低于一定生命值时自动返回核心。自动携带地面单位(最多4个，但跟随模式不受限制)，自动攻击地面敌人。附近有敌人(包括空军)自动释放单位，低生命值返回核心时自动释放单位，关闭携带开关时释放所有单位。单位携带数、最低生命值、携带物、轰炸对象可自定义。<br>
 注意：由于代码过多，单位过多时某些功能可能效果不佳；单位携带功能不一定实用，请酌情使用；判断可携带单位使用了血量比对(仅携带900及以下，但跟随模式不受限制)，所以您如果安装了某些模组，这可能会引发问题。<br>
 
@@ -10,12 +10,12 @@
 按钮的功能：<br>
 * 左下为总开关，开启后从核心拿爆混后自动轰炸敌方炮塔，并在低于一定生命值时返回。若低于设定的自爆生命值，则会冲向敌方炮塔直到爆炸。<br>
 * 左上为轰炸核心开关，开启后会直接拿爆混冲向敌方核心，不会返回。此开关比右上开关优先级低。<br>
-* 右上为跟随玩家开关，开启后会覆盖轰炸核心的命令，优先跟随玩家。玩家可带2~3个雷霆绕到敌方核心，并在接近时切换到轰炸核心命令。<br>
+* 右上为跟随玩家开关，开启后会覆盖轰炸核心的命令，优先跟随玩家。此开关开启时，玩家可以通过操控"电弧"来控制单位移动，玩家可带2~3个雷霆绕到敌方核心，并在接近时切换到轰炸核心命令。<br>
 * 顶部为单位携带开关，开启后自动携带附近陆军，关闭后释放所有单位。<br>
 * 分类器可以选择携带物，默认为爆混。<br>
 
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom1.1.jpg)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom1.1.txt)<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom1.2.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom1.2.txt)<br>
 
 ### 煤站改
 修改后的煤站，装弹效率有点低，但增加了库存。<br>
@@ -23,8 +23,8 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/coal2.txt)<br>
 
 ### 陆辅T1~T4自动跟随玩家
-自动前往玩家坐标，随玩家射击。玩家不在时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.png)
+通过电弧操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.txt)<br>
 
 ### Mega自动采矿+攻击闪避
