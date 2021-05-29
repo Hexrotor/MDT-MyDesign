@@ -27,10 +27,10 @@
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.txt)<br>
 
-### T4月影控制
-通过电弧操控月影单位前往指定坐标攻击。若玩家不控制，则自动攻击附近敌人。<br>
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/antuctrl.jpg)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/antuctrl.txt)<br>
+### T3&T4红飞机控制
+通过电弧操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/airctrl.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/airctrl.txt)<br>
 
 ### Mega自动采矿+攻击闪避
 自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。<br>
