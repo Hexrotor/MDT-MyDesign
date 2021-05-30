@@ -44,6 +44,11 @@
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.txt)<br>
 
+### 独影仓库搬运
+需要在代码内手动设置仓库名称，当仓库单物品容量仅剩50时控制独影将物品搬运到核心。
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.txt)<br>
+
 ### 石油站
 需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/petroleum.png)
