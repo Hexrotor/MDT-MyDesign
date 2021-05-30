@@ -45,7 +45,7 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.txt)<br>
 
 ### 独影仓库搬运
-需要在代码内手动设置仓库名称，当仓库单物品容量仅剩50时控制独影将物品搬运到核心。
+需要在代码内手动设置仓库名称，当仓库单物品容量仅剩50时控制独影将物品搬运到核心。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.txt)<br>
 
