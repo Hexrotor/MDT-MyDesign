@@ -34,8 +34,7 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/airctrl.txt)<br>
 
 ### Mega自动采矿+攻击闪避
-自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。<br>
-缺点: 单位数量较少的时候，修复方块会鬼畜，经测试大概是游戏bug？ 对于无钛的地图可能会出问题，稍加修改数量判定代码即可。<br>
+自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。对于无钛的地图可能会出问题，稍加修改数量判定代码即可。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.txt)<br>
 
