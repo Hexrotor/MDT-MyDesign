@@ -14,6 +14,7 @@
 * 右上为跟随玩家开关，开启后会覆盖轰炸核心的命令，优先跟随玩家。此开关开启时，玩家可以通过操控"电弧"来控制单位移动，玩家可带2~3个雷霆绕到敌方核心，并在接近时关闭并切换到轰炸核心命令。<br>
 * 顶部为单位携带开关，开启后自动携带附近陆军，关闭后释放所有单位。<br>
 * 分类器可以选择携带物，默认为爆混。<br>
+
 **没有调用冲突检测！**<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/boom1.2.jpg)
@@ -26,38 +27,50 @@
 
 ### 陆辅T1~T4自动跟随玩家
 通过电弧操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
+
 **没有调用冲突检测！**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.txt)<br>
 
 ### T3&T4红飞机控制
 通过电弧操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
+
 **没有调用冲突检测！**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/airctrl.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/airctrl.txt)<br>
 
 ### Mega自动采矿+攻击闪避
 自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。对于无钛的地图可能会出问题，稍加修改数量判定代码即可。<br>
+
 **没有调用冲突检测！众所周知煤是易燃物，进入核心有风险，故推荐使用挖矿选择器。**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.txt)<br>
 
 ### 幻型自动修复(不推荐)
 抓取一个Poly单位自动修复受损结构，修复完成后停留在基地。也许对于前期有用？<br>
+
 **没有调用冲突检测！没有敌人规避功能且approach半径为1，经测试效果不佳。**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/polyrepair.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/polyrepair.txt)<br>
 
 ### 钍炸弹
 利用爆炸的钍堆消灭周围的一切。自动调用星辉或独影装填钍，钍堆生命值低于500自动引爆，可手动引爆。<br>
 按钮的功能：左侧按钮解除热量限制，即引爆；右侧按钮选择调用星辉或独影，默认为星辉。<br>
+
 **仅调用闲置的单位，调用的单位会被赋予随机flag值以供其余处理器区分，结束后恢复flag值为0。当心您的支援单位被误伤！**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.txt)<br>
 
 ### 独影仓库搬运
 需要在代码内手动设置仓库名称，显示物品统计并当仓库单物品容量仅剩50时控制独影将物品搬运到核心。<br>
+
 **调用单位可自行修改，仅调用闲置的单位，调用的单位会被赋予同一随机flag值以供其余处理器区分。由于技术原因flag值不会恢复，但不影响本逻辑的运行。**<br>
+
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.txt)<br>
 
