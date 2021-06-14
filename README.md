@@ -33,6 +33,12 @@
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/followplayer.txt)<br>
 
+### Arkyid集群攻击
+自动pathfind并集群攻击敌人，带远程追踪（不能避障）。经实测BOSS进入激光攻击范围后活不过10s。<br>
+**没有调用冲突检测！**<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/arkyid.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/arkyid.txt)<br>
+
 ### T3&T4红飞机控制
 通过电弧操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
 
