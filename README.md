@@ -106,3 +106,8 @@
 可能需要绿带才能带动，多余物品会被自动销毁，稳定后发电量7.7k左右。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.txt)<br>
+
+### 废料大超速
+可能需要一些时间才能稳定运行，可以放入相位物使其稳定。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.txt)<br>
