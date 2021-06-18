@@ -111,3 +111,8 @@
 可能需要一些时间才能稳定运行，可以放入相位物使其稳定。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.txt)<br>
+
+### 6温差串联结构
+以6温差为一组的串联结构，需要外部供应冷冻液与硫。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.txt)<br>
