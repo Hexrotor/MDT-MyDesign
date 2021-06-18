@@ -113,6 +113,6 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.txt)<br>
 
 ### 6温差串联结构
-以6温差为一组的串联结构，需要外部供应冷冻液与硫。<br>
+以6温差为一组的串联结构，需要外部供应冷冻液与硫，净发电量9.4k。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.txt)<br>
