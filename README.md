@@ -72,13 +72,23 @@
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/autoboom.txt)<br>
 
-### 独影仓库搬运
+### 仓库搬运
 显示物品统计并当仓库单物品容量仅剩50时控制独影将物品搬运到核心。需要手动链接仓库(一对一)，并在代码内设置仓库名称。<br>
 
 **调用单位可自行修改，仅调用闲置的单位，调用的单位会被赋予同一随机flag值以供其余处理器区分。由于技术原因flag值不会恢复，但不影响本逻辑的运行。**<br>
 
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.jpg)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monotrans.txt)<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/itemtrans.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/itemtrans.txt)<br>
+
+### 仓库转移
+调用单位转移仓库或容器，默认使用Mega单位搬运容器。至少需要两个单位才能运行。<br>
+用法：分为装载点与卸载点，需要进入逻辑内设置"单位配对码"以关联两个站点。左开关开即将此站点设为装载点，关闭则将此站点设为卸载点。中间为总开关。右侧选择器可选择检测物，默认为null(检测物品总和)。信息板可以看到已设置的参数。
+行为：当装载点的检测物数量检测值达到单物品最大容量(比如容器为300)时，调用一个空单位将仓库拾起，将此单位flag标记为设定的单位配对码。装载点缺少仓库时，调用一个flag为2的单位放置一个新的仓库；当卸载点仓库内检测物数量检测值低至设定的最小值，调用一个空单位将仓库拾起并标记其flag为2。卸载点缺少仓库时，调用对应flag为配对码的单位放置仓库，随后该单位flag恢复为0。
+
+**调用单位可自行修改，仅调用闲置的单位，调用中的单位会被赋予唯一flag值以供其余处理器区分。**<br>
+
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/paytrans.jpg)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/paytrans.txt)<br>
 
 ### 石油站
 需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。<br>
