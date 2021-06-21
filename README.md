@@ -50,7 +50,7 @@
 ### Mega自动采矿+攻击闪避
 调用巨像自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。对于无钛的地图可能会出问题，可以通过挖矿选择器强制指定开采矿物。本逻辑兼容所有"boostable"的矿机，自行更改unit bind即可。由于技术原因自动修复功能仅对巨像单位开放。<br>
 
-**仅调用flag为0的单位。众所周知煤是易燃物，进入核心有风险，故推荐使用挖矿选择器。**<br>
+**仅调用闲置的单位。众所周知煤是易燃物，进入核心有风险，故推荐使用挖矿选择器。**<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/megaplus.txt)<br>
