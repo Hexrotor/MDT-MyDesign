@@ -113,8 +113,8 @@
 [PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tuplus.txt)<br>
 
 ### 废料冲击
-可能需要绿带才能带动，多余物品会被自动销毁，稳定后发电量7.7k左右。<br>
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.jpg)
+可能需要绿带才能带动，稳定后发电量7.7k左右。带安全启动与低血自停。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.png)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/reactor.txt)<br>
 
 ### 废料大超速
@@ -126,3 +126,9 @@
 以6温差为一组的串联结构，需要外部供应冷冻液与硫，净发电量9.4k。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/tgen.txt)<br>
+
+### 分析器
+名字叫分析器但它并不能自己分析，它在屏幕上绘制荷载内的物品与液体变化曲线，所以你可以根据这些曲线知道你要做什么。<br>
+需要手动链接荷载后在逻辑编辑中将荷载关联到变量。使用分类器选择要检测的物品，使用开关切换要检测的液体，一次只能检测一种物品和液体。<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monitor.png)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/monitor.txt)<br>
