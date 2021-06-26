@@ -122,7 +122,7 @@
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/fwbooster.txt)<br>
 
-### 原地出硅
+### 原地出硅(for v127)
 调用单位挖材料并生产硅放入仓库，没啥用，有时也许有奇效。可配合其他逻辑使用，比如仓库搬运。<br>
 **调用策略同"Mega自动挖矿"逻辑，单位默认为耀星**
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/si.jpg)
