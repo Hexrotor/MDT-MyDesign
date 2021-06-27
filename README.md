@@ -26,7 +26,7 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coal2.txt)<br>
 
 ### 陆辅T1~T4自动跟随玩家
-通过电弧操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
+通过"电弧"操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
 
 **没有调用冲突检测！**<br>
 
@@ -34,13 +34,13 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer.txt)<br>
 
 ### Arkyid集群攻击
-自动pathfind并集群攻击敌人，带远程追踪（不能避障）。经实测BOSS进入激光攻击范围后活不过10s。<br>
+自动pathfind并集群攻击敌人，带远程追踪（不能避障）。通过操控"电弧"可控制单位：长按任意区域进入玩家控制模式，再次长按退出控制。经实测BOSS进入激光攻击范围后活不过10s。<br>
 **没有调用冲突检测！**<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/arkyid.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)<br>
 
 ### T3&T4红飞机控制
-通过电弧操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
+通过"电弧"操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
 
 **没有调用冲突检测！**<br>
 
@@ -54,14 +54,6 @@
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/megaplus.jpg)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/megaplus.txt)<br>
-
-### 幻型自动修复(不推荐)
-抓取一个Poly单位自动修复受损结构，修复完成后停留在基地。也许对于前期有用？<br>
-
-**没有调用冲突检测！没有敌人规避功能且approach半径为1，经测试效果不佳。**<br>
-
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/polyrepair.jpg)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyrepair.txt)<br>
 
 ### 钍炸弹
 利用爆炸的钍堆消灭周围的一切。自动调用星辉或独影装填钍，钍堆生命值低于500自动引爆，可手动引爆。<br>
@@ -138,3 +130,4 @@
 需要手动链接荷载后在逻辑编辑中将荷载关联到变量。使用分类器选择要检测的物品，使用开关切换要检测的液体，一次只能检测一种物品和液体。<br>
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/monitor.png)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitor.txt)<br>
+
