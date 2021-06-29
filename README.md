@@ -27,17 +27,28 @@
 </details>
 
 ### 煤站改
-修改后的煤站，装弹效率有点低，但增加了库存。<br>
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coal2.png)
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coal2.txt)<br>
+<details><summary>展开描述</summary>
+修改后的煤站，装弹效率有点低，但增加了库存。<br>
+</details>
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coal2.png)
+
+</details>
 
 ### 陆辅T1~T4自动跟随玩家
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer.txt)<br>
+<details><summary>展开描述</summary>
 通过"电弧"操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
 
 **没有调用冲突检测！**<br>
-
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/followplayer.jpg)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer.txt)<br>
+</details>
+<details><summary>展开图片</summary>
+  
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/followplayer.jpg)
+  
+</details>
 
 ### Arkyid集群攻击
 自动pathfind并集群攻击敌人，带远程追踪（不能避障）。通过操控"电弧"可控制单位：长按任意区域进入玩家控制模式，再次长按退出控制。经实测BOSS进入激光攻击范围后活不过10s。<br>
