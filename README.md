@@ -17,8 +17,9 @@
 * 分类器可以选择携带物，默认为爆混。<br>
 
 **没有调用冲突检测！**<br>
-
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/boom1.2.jpg)
+<details><summary>展开图片</summary>
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/boom1.2.jpg)
+</details>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)<br>
 
 ### 煤站改
