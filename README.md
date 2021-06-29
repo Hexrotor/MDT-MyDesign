@@ -1,7 +1,7 @@
 # Mindustry-Myblueprint
 萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，如有雷同纯属雷同，欢迎体验！<br>
 要快速查找蓝图，请点击上方"README.md"左侧的
-<img src="https://css.gg/layout-list.svg" width="32" height="32"/>
+<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 **注意，我的游戏版本为<code>127.1</code>**<br>
 
