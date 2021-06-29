@@ -4,6 +4,8 @@
 **注意，我的游戏版本为<code>127.1</code>**<br>
 
 ### 雷霆敢死队1.2
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)<br>
+<details><summary>展开描述</summary>
 控制雷霆自动从核心拿爆混后轰炸敌方炮塔或核心，并在低于一定生命值时自动返回核心。自动携带地面单位(最多4个，但跟随模式不受限制)，自动攻击地面敌人。附近有敌人(包括空军)自动释放单位，低生命值返回核心时自动释放单位，关闭携带开关时释放所有单位。单位携带数、最低生命值、携带物、轰炸对象可自定义。<br>
 注意：由于代码过多，单位过多时某些功能可能效果不佳；单位携带功能不一定实用，请酌情使用；判断可携带单位使用了血量比对(仅携带900及以下，但跟随模式不受限制)，所以您如果安装了某些模组，这可能会引发问题。<br>
 
@@ -17,7 +19,7 @@
 * 分类器可以选择携带物，默认为爆混。<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)<br>
+</details>
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/boom1.2.jpg)
