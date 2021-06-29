@@ -19,11 +19,7 @@
 * 分类器可以选择携带物，默认为爆混。<br>
 
 **没有调用冲突检测！**<br>
-</details>
-<details><summary>展开图片</summary>
-
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/boom1.2.jpg)
-
 </details>
 
 ### 煤站改
@@ -54,7 +50,9 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)<br>
 <details><summary>展开描述</summary>
 自动pathfind并集群攻击敌人，带远程追踪（不能避障）。通过操控"电弧"可控制单位：长按任意区域进入玩家控制模式，再次长按退出控制。经实测BOSS进入激光攻击范围后活不过10s。<br>
+  
 **没有调用冲突检测！**<br>
+  
 </details>
 <details><summary>展开图片</summary>
 
@@ -165,7 +163,7 @@
 
 ### 钍站
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
-[PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/tuplus.txt)<br>
+[PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)<br>
 <details><summary>展开描述</summary>
 需要放入钍来启动(也可自启动)，启动过程会轻微负电。做成一体式是为了好看，实际操作还是按地形部署比较简便。<br>
 </details>
@@ -202,6 +200,7 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/si.txt)<br>
 <details><summary>展开描述</summary>
 调用单位挖材料并生产硅放入仓库，没啥用，有时也许有奇效。可配合其他逻辑使用，比如仓库搬运。<br>
+  
 **调用策略同"Mega自动挖矿"逻辑，单位默认为耀星。**<br>
 </details>
 <details><summary>展开图片</summary>
