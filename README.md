@@ -167,6 +167,15 @@
 
 </details>
 
+### 五连冷冻液
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/x5fluid.txt)<br>
+<details><summary>展开描述</summary>
+下方进料，自带一个罐体。<br>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/x5fluid.jpg)
+
+</details>
+
 ### 6温差串联结构
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)<br>
 <details><summary>展开描述</summary>
@@ -189,7 +198,7 @@
 
 # For old versions
 
-这些蓝图因为新版的改动已无法正常使用，故按照版本进行分类储存。
+这些蓝图只能在旧版本正常工作，故按照版本进行分类储存。
 
 ## v6
 
