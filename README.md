@@ -176,6 +176,15 @@
 
 </details>
 
+### 串联冷冻液
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multifluid.txt)<br>
+<details><summary>展开描述</summary>
+左方进料，五个一组。<br>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
+
+</details>
+
 ### 6温差串联结构
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)<br>
 <details><summary>展开描述</summary>
