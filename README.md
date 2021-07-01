@@ -5,6 +5,8 @@
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 **注意，我的游戏版本为<code>127.1</code>**<br>
 
+## v127.1
+
 ### 雷霆敢死队1.2
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)<br>
 <details><summary>展开描述</summary>
@@ -125,24 +127,6 @@
 
 </details>
 
-### 水站
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/water.txt)<br>
-<details><summary>展开描述</summary>
-需要大面积的水，局限性很大。<br>
-
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/water.png)
-
-</details>
-
-### 水站PLUS
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/waterplus.txt)<br>
-<details><summary>展开描述</summary>
-需要小面积水，大面积空地。<br>
-
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/waterplus.png)
-
-</details>
-
 ### 钍站
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
 [PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)<br>
@@ -200,5 +184,33 @@
 处理器内可自定义的值：$检测荷载、$x轴增量、$速率更新间隔
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/monitor.png)
+
+</details>
+
+# For old version
+
+这些蓝图因为新版的改动已无法正常使用，将针对版本进行分类储存。
+
+## v6
+
+<details><summary>展开全部</summary>
+
+### 水站
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/water.txt)<br>
+<details><summary>展开描述</summary>
+需要大面积的水，局限性很大。<br>
+
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/water.png)
+
+</details>
+
+### 水站PLUS
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)<br>
+<details><summary>展开描述</summary>
+需要小面积水，大面积空地。<br>
+
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/waterplus.png)
+
+</details>
 
 </details>
