@@ -5,7 +5,7 @@
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 **注意，我的游戏版本为<code>127.1</code>**<br>
 
-## v127.1
+## v7
 
 ### 雷霆敢死队1.2
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)<br>
@@ -187,13 +187,13 @@
 
 </details>
 
-# For old version
+# For old versions
 
-这些蓝图因为新版的改动已无法正常使用，将针对版本进行分类储存。
+这些蓝图因为新版的改动已无法正常使用，故按照版本进行分类储存。
 
 ## v6
 
-<details><summary>展开全部</summary>
+<details><summary>展开全部126.2</summary>
 
 ### 水站
 
