@@ -196,20 +196,22 @@
 <details><summary>展开全部</summary>
 
 ### 水站
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/water.txt)<br>
+
 <details><summary>展开描述</summary>
 需要大面积的水，局限性很大。<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/water.png)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/water.txt)<br>
 
 </details>
 
 ### 水站PLUS
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)<br>
+
 <details><summary>展开描述</summary>
 需要小面积水，大面积空地。<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/waterplus.png)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)<br>
 
 </details>
 
