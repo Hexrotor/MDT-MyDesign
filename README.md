@@ -51,7 +51,7 @@
 ### Arkyid集群攻击
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)<br>
 <details><summary>展开描述</summary>
-自动pathfind并集群攻击敌人，带远程追踪（不能避障）。通过操控"电弧"可控制单位：长按任意区域进入玩家控制模式，再次长按退出控制。经实测BOSS进入激光攻击范围后活不过10s。<br>
+自动pathfind并集群攻击敌人，带远程追踪（不能避障）。通过操控"电弧"可控制单位：长按任意区域进入玩家控制模式，再次长按退出控制。某种程度上此逻辑兼容任何单位。<br>
   
 **没有调用冲突检测！**<br>
 
