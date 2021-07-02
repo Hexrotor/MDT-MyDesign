@@ -52,7 +52,14 @@
 
 </details>
 
-#### 石油站                                                   [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)<br>                             <details><summary>展开描述</summary>                          需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。<br>                                                                                          ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/petroleum.png)                                                                                                  </details>
+#### 石油站
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)<br>
+<details><summary>展开描述</summary>
+需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。<br> 
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/petroleum.png)
+
+</details>
 
 #### 陆辅T1~T4自动跟随玩家
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer.txt)<br>
