@@ -3,6 +3,7 @@
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
+此处分享的各种炮塔站点类蓝图是我为了图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 **注意，我的游戏版本为<code>127.1</code>**<br>
 
 ## v7
@@ -45,10 +46,9 @@
 </details>
 
 #### 钍站
-需要放入钍来启动(也可自启动)，启动过程会轻微负电。做成一体式是
-为了好看，实际操作还是按地形部署比较简便。<br>
+需要放入钍来启动(也可自启动)，启动过程会轻微负电。Plus版有更多的炮塔但修复器不能将其完全覆盖。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
-[PLUS获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)
+[Plus获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)
 
 <details><summary>展开图片</summary>
 
