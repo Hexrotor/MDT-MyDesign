@@ -41,7 +41,7 @@
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coal2.png)
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coal2.jpg)
 
 </details>
 
