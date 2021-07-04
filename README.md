@@ -34,6 +34,18 @@
 
 </details>
 
+#### 远程供弹演示
+此蓝图演示如何远程供弹。此蓝图调用一个星辉单位从核心将弹药搬运到容器，且不与其他本蓝图冲突，你可以调整装卸器配置以选择要搬运的弹药。本蓝图中的逻辑代码较简单，如果你想了解如何避免调用冲突，可以参考其代码。稍加修改代码可实现从非核心搬运弹药。 
+**仅调用闲置的单位，调用中的单位会被赋予随机flag值以供其余处理器区分。**
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.jpg)
+
+</details>
+
 #### 煤站改
 修改后的煤站，装弹效率有点低，但增加了库存。<br>
 
@@ -58,9 +70,6 @@
 </details>
 
 #### 石油站
-需要外部供应石油(供应点在左下)，可以在有石油的状态下自启动，非常强大。和煤站一样，容易火灾。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
-
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/petroleum.png)
@@ -208,6 +217,7 @@
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
 
 </details>
 
@@ -266,3 +276,5 @@
 </details>
 
 </details>
+# Mindustry-Myblueprint
+萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，如有雷同纯属雷同，欢迎体验！<br>
