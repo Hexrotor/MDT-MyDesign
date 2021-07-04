@@ -128,7 +128,7 @@
 </details>
 
 ### 生产
-这些蓝图与生产物资有关。
+这些蓝图与生产物资、后勤有关。
 
 #### Mega自动采矿+攻击闪避
 调用巨像自动开采核心内最少的物品(铜铅煤钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动返回基地。优先攻击敌人，并反复横跳躲避攻击。本逻辑兼容所有"boostable"的矿机，自行更改unit bind即可(对于开采等级低的单位会出问题，可以通过分类器强制指定开采矿物)。由于技术原因自动修复功能仅对巨像单位开放。<br>
@@ -139,6 +139,18 @@
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/megaplus.jpg)
+
+</details>
+
+#### 幻型修复演示
+此逻辑演示调用一个幻型单位修复受损结构。此逻辑较为简单，如果你想知道如何调用单位修复建筑，你可以研究其代码。 
+
+**没有调用冲突检测！** 
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyrepair.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/polyrepair.jpg)
 
 </details>
 
