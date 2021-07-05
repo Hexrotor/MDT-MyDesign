@@ -70,6 +70,9 @@
 </details>
 
 #### 石油站
+需要从左下供应石油，小心起火。
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
+
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/petroleum.png)
