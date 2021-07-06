@@ -35,14 +35,33 @@
 </details>
 
 #### 远程供弹演示
-此蓝图演示如何远程供弹。此蓝图调用一个星辉单位从核心将弹药搬运到容器，且不与其他本蓝图冲突，你可以调整装卸器配置以选择要搬运的弹药。本蓝图中的逻辑代码较简单，如果你想了解如何避免调用冲突，可以参考其代码。稍加修改代码可实现从非核心搬运弹药。  
-**仅调用闲置的单位，调用中的单位会被赋予随机flag值以供其余处理器区分。**
+这些蓝图演示如何远程供弹。这些蓝图调用一个星辉单位从核心将弹药搬运到容器，且不与其他本蓝图冲突，你可以调整装卸器配置以选择要搬运的弹药。这些蓝图中的逻辑代码较简单，如果你想了解如何避免调用冲突，可以参考其代码。稍加修改代码可实现从非核心搬运弹药。<br>
+**仅调用闲置的单位，调用中的单位会被赋予随机flag值以供其余处理器区分。**<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
+<details><summary>展开相关蓝图</summary>
+
+##### 供弹模板
+容器、处理器、开关与装卸器是必要的，其他部分均可自由搭配。如果你想调整位置，则需要重新配置处理器。
+
+[获取模板](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
 
 <details><summary>展开图片</summary>
 
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.jpg)
+
+</details>
+
+##### 串联蜂群
+如果你想，你可以从外部供弹。对于弹夹版，需要与<a href="#仓库转移">仓库转移</a>配合使用。<br>
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.txt)
+[获取弹夹版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmerx.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.jpg)
+
+</details>
 
 </details>
 
@@ -70,7 +89,7 @@
 </details>
 
 #### 石油站
-需要从左下供应石油，小心起火。
+需要从左下供应石油，小心起火。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
 
 <details><summary>展开图片</summary>
@@ -286,8 +305,8 @@
 需要小面积水，大面积空地。<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/waterplus.png)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)<br>
-
-</details>
-
-</details>
+# Mindustry-Myblueprint
+萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，如有雷同纯属雷同，欢迎体验！<br>
+要快速查找蓝图，请点击上方"README.md"左侧的图标
+<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
+或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
