@@ -47,7 +47,7 @@
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.jpg)
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/remotesup.jpg)
 
 </details>
 
@@ -59,7 +59,7 @@
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.jpg)
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/swarmer.jpg)
 
 </details>
 
