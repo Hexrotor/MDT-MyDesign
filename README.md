@@ -34,6 +34,18 @@
 
 </details>
 
+#### 单位带货
+此逻辑控制指定类型的单位到核心携带指定物品，携带后自动释放单位。<br>
+**没有调用冲突检测!**<br>
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/takeitem.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/takeitem.jpg)
+
+</details>
+
 #### 远程供弹演示
 这些蓝图演示如何远程供弹。这些蓝图调用一个星辉单位从核心将弹药搬运到容器，且不与其他本蓝图冲突，你可以调整装卸器配置以选择要搬运的弹药。这些蓝图中的逻辑代码较简单，如果你想了解如何避免调用冲突，可以参考其代码。稍加修改代码可实现从非核心搬运弹药。<br>
 **仅调用闲置的单位，调用中的单位会被赋予随机flag值以供其余处理器区分。**<br>
@@ -98,11 +110,11 @@
 
 </details>
 
-#### 陆辅T1~T4自动跟随玩家
-通过"电弧"操控单位前往指定坐标攻击或跟随玩家攻击。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
+#### 跟随四联v1.1
+一个较为完善的跟随逻辑，四个处理器分别控制陆辅T1~T4。通过"电弧"操控单位前往指定坐标攻击或跟随玩家攻击，可远程追踪玩家，距离超过50启动boost。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer.txt)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
 
 <details><summary>展开图片</summary>
 
