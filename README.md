@@ -4,7 +4,7 @@
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 此处分享的各种炮塔站点类蓝图是我为了图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
-**注意，我的游戏版本为<code>127.1</code>**<br>
+**注意，我的游戏版本为<code>128</code>**<br>
 
 ## v7
 
