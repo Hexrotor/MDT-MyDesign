@@ -161,6 +161,19 @@
 
 </details>
 
+#### 核弹投放
+让雷霆带上钍堆，并在生命值低于1000时投放。<br>
+此逻辑的行为：当钍堆过热时将其禁用，并让一个可用的雷霆单位带上它，随后调用一个幻型重构建钍堆。当检测到雷霆单位生命值低于1000时，使其投放携带的任意荷载(钍堆)，不论何地。<br>
+总之，这个逻辑十分危险，不要轻易使用它。自带的开关可以停用其所有功能。<br>
+**仅调用符合要求的、闲置的雷霆单位。每次构建钍堆只会调用一个幻型。**<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/thpush.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/thpush.jpg)
+
+</details>
+
 ### 生产
 这些蓝图与生产物资、后勤有关。
 
