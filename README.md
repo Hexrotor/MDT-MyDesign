@@ -330,8 +330,6 @@
 需要小面积水，大面积空地。<br>
 
 [预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/waterplus.png)
-# Mindustry-Myblueprint
-萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，如有雷同纯属雷同，欢迎体验！<br>
-要快速查找蓝图，请点击上方"README.md"左侧的图标
-<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
-或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)
+
+<details>
