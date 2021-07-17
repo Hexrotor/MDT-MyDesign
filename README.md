@@ -189,15 +189,15 @@
 
 </details>
 
-#### 幻型修复演示
-此逻辑演示调用一个幻型单位修复受损结构。此逻辑较为简单，如果你想知道如何调用单位修复建筑，你可以研究其代码。<br>
+#### 单位修复模板
+此逻辑调用一个单位修复受损结构，兼容所有能飞的单位。默认调用幻型单位。<br>
 
-**没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyrepair.txt)
+**仅调用未被处理器控制的单位。**<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/repairuni.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/polyrepair.jpg)
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/repairuni.jpg)
 
 </details>
 
