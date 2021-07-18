@@ -174,6 +174,27 @@
 
 </details>
 
+#### 污水站
+放在污水里才能正常工作。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dirtywater.txt)<br>
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/dirtywater.jpg)
+
+
+</details>
+
+#### 水站重制版
+重新拼的大水站，可以在v7上工作。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/water7.txt)<br>
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/water7.jpg)
+
+</details>
+
 ### 生产
 这些蓝图与生产物资、后勤有关。
 
