@@ -339,6 +339,10 @@
 
 </details>
 
+#### Demo
+Demo1 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
+Demo2 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)
+
 # For old versions
 
 这些蓝图只能在旧版本正常工作且不会再更新。
