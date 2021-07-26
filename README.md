@@ -225,6 +225,18 @@
 
 </details>
 
+#### 幻型修复经典版
+时代的眼泪，纪念104。<br>
+
+**仅调用未被处理器控制的单位。**<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyc.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/polyc.jpg)
+
+</details>
+
 #### 仓库搬运
 显示物品统计并当仓库单物品容量仅剩50时控制独影将物品搬运到核心。需要手动链接仓库(一对一)，并在代码内设置仓库名称。<br>
 
