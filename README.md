@@ -276,7 +276,7 @@
 </details>
 
 #### 废料大超速
-可能需要一些时间才能稳定运行，可以放入相位物使其稳定。<br>
+可能需要一些时间才能稳定运行，可以放入相织物使其稳定。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/fwbooster.txt)
 
 <details><summary>展开图片</summary>
@@ -329,7 +329,7 @@
 </details>
 
 #### 6温差串联结构
-以6温差为一组的串联结构，需要外部供应冷冻液与硫，净发电量9.4k。<br>
+以6温差为一组的串联结构，需要外部供应冷冻液与炻，净发电量9.4k。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)
 
 <details><summary>展开图片</summary>
@@ -354,7 +354,7 @@
 
 </details>
 
-#### Demo
+#### Demos
 Demo1 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
 Demo2 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)<br>
 Demo3 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
