@@ -137,6 +137,18 @@
 
 </details>
 
+#### 坐标移动
+控制一种单位按记录的坐标顺序移动。左开关开，控制"电弧"开炮来记录坐标；右开关开，则使设定的单位(雷霆)按坐标顺序移动。当左开关关闭，坐标记录会清空；当左开关关闭，右开关开启，会同时恢复单位flag为0。由于内存上限，最多记录32个点。<br>
+
+**没有调用冲突检测！**<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/movepoint.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/movepoint.jpg)
+
+</details>
+
 #### T3&T4红飞机控制
 通过"电弧"操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
 
