@@ -282,7 +282,7 @@
 #### T2神风核心
 集成了[坐标移动](#坐标移动)、[单位带货](#单位带货)、[幻型修复经典版](#幻型修复经典版)。自动控制幻型的生产，默认生产2个，可调。<br>
 左下处理器可自定义的值：$幻型数量<br>
-**由于集成了多个逻辑，请去各逻辑描述处查看注意事项。**
+**由于集成了多个逻辑，请去各逻辑描述处查看注意事项。**<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coreunit.txt)
 
 <details><summary>展开图片</summary>
