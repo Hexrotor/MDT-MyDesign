@@ -381,10 +381,20 @@
 </details>
 
 #### Demos
-Demo1 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
-Demo2 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)<br>
-Demo3 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
-Demo4 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<br>
+演示系列<br>
+名字乱写的，逻辑乱写的。没有预览图，这不重要。<br>
+1.aidemo<br>
+使一种单位满地图乱跑并攻击敌人，直到接近敌人出生点后停下。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
+2.pdemo<br>
+按顺序数数并打印到信息板。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)<br>
+3.vdemo<br>
+像传统的波形监视器一样显示仓库内铜数量的变化。是模仿别人的但是没模仿像，用了很多代码，比别人的延迟高很多。到现在我也不知道这个效果该怎么做。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
+4.random<br>
+在显示屏上随机显示很多有色点，最后铺满。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<b>
 
 # For old versions
 
