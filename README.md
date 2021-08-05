@@ -279,6 +279,18 @@
 
 </details>
 
+#### T2神风核心
+集成了[坐标移动](#坐标移动)、[单位带货](#单位带货)、[幻型修复经典版](#幻型修复经典版)。自动控制幻型的生产，默认生产2个，可调。<br>
+左下处理器可自定义的值：$幻型数量<br>
+**由于集成了多个逻辑，请去各逻辑描述处查看注意事项。**
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coreunit.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coreunit.jpg)
+
+</details>
+
 #### 废料冲击
 可能需要绿带才能带动，稳定后发电量7.7k左右。带安全启动与低血自停。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/reactor.txt)
