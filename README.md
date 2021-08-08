@@ -6,7 +6,7 @@
 此处分享的各种炮塔站点类蓝图是我为了图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 **注意，我的游戏版本为<code>129.1</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
-[!](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)
+![hits](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)
 
 ## v7
 
