@@ -1,10 +1,10 @@
 # Mindustry-Myblueprint
-萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，如有雷同纯属雷同，欢迎体验！<br>
+萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，可能部分有参考。如有雷同纯属雷同，欢迎体验！<br>
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 此处分享的各种炮塔站点类蓝图是我为了图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
-**注意，我的游戏版本为<code>129.1</code>**<br>
+**注意，我的游戏版本为<code>129.2</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
 ![hits](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)
 
@@ -384,22 +384,24 @@
 
 #### Demos
 演示系列<br>
+此系列多为我对逻辑玩法的探索或对实现一些功能的尝试。<br>
 名字乱写的，逻辑乱写的。没有预览图，这不重要。<br>
 1.aidemo<br>
 使一种单位满地图乱跑并攻击敌人，直到接近敌人出生点后停下。<br>
+原理是检测前方地形是否能通过，若遇到墙则进行一组运算来面向一定夹角范围内的随机方向继续前进。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
 2.pdemo<br>
-按顺序数数并打印到信息板。<br>
+按顺序数数并打印到信息板。这是对非IO式数据保存方式的一种猜测。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)<br>
 3.vdemo<br>
-像传统的波形监视器一样显示仓库内铜数量的变化。是模仿别人的但是没模仿像，用了很多代码，比别人的延迟高很多。到现在我也不知道这个效果该怎么做。<br>
+像传统的波形监视器一样显示仓库内铜数量的变化，是将"pdemo"工作方式应用到显示面板的产物。是模仿别人的但是没模仿像，用了很多代码，比别人的延迟高很多。到现在我也不知道这个效果该怎么做。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
 4.random<br>
 在显示屏上随机显示很多有色点，最后铺满。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<br>
 5.autobuild<br>
-通过电弧控制一个poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。<br>
-个人感想：原来建造中的建筑类型是build2；使用随机参数圆的效果不如直接随机坐标。<br>
+通过电弧控制一个poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。是模仿别人做的。<br>
+个人感想：原来建造中的建筑类型是build2；使用随机参数圆的效果不如直接随机坐标，推测是因为圆心角在随机值中能生成的有效份有很大局限性，微小的圆心角变化也会在大半径圆的圆弧上造成很大的差异，这可能使得用这种方式找到空闲区域放置荷载的效率不佳。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
 
 # For old versions
