@@ -396,7 +396,11 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
 4.random<br>
 在显示屏上随机显示很多有色点，最后铺满。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<b>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<br>
+5.autobuild<br>
+通过电弧控制一个poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。<br>
+个人感想：原来建造中的建筑类型是build2；使用随机参数圆的效果不如直接随机坐标。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
 
 # For old versions
 
