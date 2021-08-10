@@ -1,5 +1,5 @@
 # Mindustry-Myblueprint
-萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，可能部分有参考。如有雷同纯属雷同，欢迎体验！<br>
+萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，部分有参考。如有雷同纯属雷同，欢迎体验！<br>
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
@@ -230,6 +230,7 @@
 
 #### 单位修复模板
 此逻辑调用一个单位修复受损结构，兼容所有能飞的单位。默认调用幻型单位。<br>
+有时候我们可能造不了mega单位，这也许会有一定帮助。<br>
 
 **仅调用未被处理器控制的单位。**<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/repairuni.txt)
@@ -241,6 +242,7 @@
 </details>
 
 #### 幻型修复经典版
+调用一个幻型单位绕处理器旋转并修复受损结构。<br>
 时代的眼泪，纪念104。<br>
 
 **仅调用未被处理器控制的单位。**<br>
@@ -264,7 +266,7 @@
 
 </details>
 
-#### 仓库转移v1.1(20210810)
+#### 仓库转移v1.2(20210810)
 [视频介绍](https://www.bilibili.com/video/BV13v411K76c)<br>
 自动选择Mega/Quad并调用其转移容器或仓库，至少需要两个同类单位才能运行。<br>
 用法：分为装载点与卸载点，需要进入逻辑内设置"单位配对码"以关联两个站点。左开关开即将此站点设为装载点，关闭则将此站点设为卸载点。中间为总开关。右侧选择器可选择检测物，默认为null(检测物品总和)。信息板可以看到已设置的参数。<br>
@@ -354,7 +356,6 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
 ![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
 
 </details>
