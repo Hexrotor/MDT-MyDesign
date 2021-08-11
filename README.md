@@ -3,7 +3,7 @@
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
-此处分享的各种炮塔站点类蓝图是我为了图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
+此处分享的各种炮塔站点类蓝图是我图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 **注意，我的游戏版本为<code>129.2</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
 ![hits](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)
@@ -415,6 +415,9 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 7.sensor<br>
 本人调试逻辑构造用的工具，传感与之链接的建筑的坐标等数据并打印到信息板，会调用所有poly。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sensor.txt)<br>
+8.unindex<br>
+依赖Lookup指令，依次列出荷载方块，打印图像、名称和ID。理论上通用。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unindex.txt)<br>
 
 # For old versions
 
