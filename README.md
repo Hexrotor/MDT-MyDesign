@@ -403,10 +403,12 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 4.random<br>
 在显示屏上随机显示很多有色点，最后铺满。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<br>
-5.autobuild<br>
-通过电弧控制一个poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。是模仿别人做的。<br>
+5.autobuild/multibuild<br>
+通过电弧控制一个或所有poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。是模仿别人做的。<br>
+autobuild只控制一个poly，multibuild控制所有poly。<br>
 个人感想：原来建造中的建筑类型是build2；使用随机参数圆的效果不如直接随机坐标，推测是因为圆心角在随机值中能生成的有效份有很大局限性，微小的圆心角变化也会在大半径圆的圆弧上造成很大的差异，这可能使得用这种方式找到空闲区域放置荷载的效率不佳。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
+[获取autobuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
+[获取multibuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multibuild.txt)<br>
 
 # For old versions
 
