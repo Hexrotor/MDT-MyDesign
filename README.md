@@ -409,10 +409,11 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 个人感想：原来建造中的建筑类型是build2；使用随机参数圆的效果不如直接随机坐标，推测是因为圆心角在随机值中能生成的有效份有很大局限性，微小的圆心角变化也会在大半径圆的圆弧上造成很大的差异，这可能使得用这种方式找到空闲区域放置荷载的效率不佳。<br>
 [获取autobuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
 [获取multibuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multibuild.txt)<br>
-6.buildhelper
+6.buildhelper<br>
 调用一个poly在处理器上方构造一个荷载。需要自行设置荷载类型、荷载边长、荷载方向。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper.txt)<br>
-7.本人调试逻辑构造用的工具，传感与之链接的建筑的坐标等数据并打印到信息板，会调用所有poly。<br>
+7.sensor<br>
+本人调试逻辑构造用的工具，传感与之链接的建筑的坐标等数据并打印到信息板，会调用所有poly。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sensor.txt)<br>
 
 # For old versions
