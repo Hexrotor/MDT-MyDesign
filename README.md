@@ -435,7 +435,8 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)
 
 </details>
+</details>
 
 # 其他分享
 一些非我原创的蓝图。<br>
-点击查看：[SHARE.md](https://github.com/Hexrotor/Mindustry-Myblueprint/SHARE.md)
+点击查看：[SHARE.md](https://github.com/Hexrotor/Mindustry-Myblueprint/blob/main/SHARE.md)
