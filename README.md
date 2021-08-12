@@ -6,7 +6,7 @@
 此处分享的各种炮塔站点类蓝图是我图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 **注意，我的游戏版本为<code>129.2</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
-![hits](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)
+[![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
 ## v7
 
@@ -216,7 +216,7 @@
 ### 生产
 这些蓝图与生产物资、后勤有关。
 
-#### Mega自动采矿+攻击闪避(20210803)
+#### Mega自动采矿+攻击闪避(20210812)
 调用巨像自动开采核心内最少的物品(铜铅钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动寻找维修点。优先攻击敌人，并反复横跳躲避攻击。本逻辑兼容所有可飞行的矿机，自行更改unit bind即可(对于开采等级低的单位会出问题，可以通过分类器强制指定开采矿物)。由于技术原因自动修复功能仅对巨像单位开放。<br>
 
 **仅调用闲置的0flag单位。**<br>
@@ -450,4 +450,4 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 
 # 其他分享
 一些非我原创的蓝图。<br>
-点击查看：[SHARE.md](https://github.com/Hexrotor/Mindustry-Myblueprint/blob/main/SHARE.md)
+点击查看：[SHARE.md](/SHARE.md)
