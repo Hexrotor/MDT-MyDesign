@@ -3,7 +3,8 @@
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
-此处分享的各种炮塔站点类蓝图是我图方便做的，请各位酌自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
+此处分享的各种炮塔站点类蓝图是我图方便做的，请各位自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
+<h4>请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与我无关。</h4>
 **注意，我的游戏版本为<code>129.2</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)

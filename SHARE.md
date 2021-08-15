@@ -8,9 +8,9 @@
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/tu5x.txt)<br>
 
 ## 简易玻璃6x
-通用结构，我不知道作者。
+通用结构，我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/simpleglass.txt)<br>
 
 ## 12硅
-我不知道作者。
+我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/si12x.txt)<br>
