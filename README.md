@@ -14,6 +14,9 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 
 ### 数据统计
 最初构想：依赖lookup。从数字t开始lookup unit类型保存为unitresult ，然后进入unitresult的数量检测程序，将值存在内存t位。另一个处理器依次读取内存位，并lookup内存位表示的unit，直接循环就能打印出来。<br>
+20210816<br>
+记数部分制作完成，现正着手于构建图像部分。目前在规划位置以计算坐标，以及构建数字显示模块。由于我从未研究过数字显示，这可能需要花一点时间。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/basic.txt)<br>
 
 ## v7
 
