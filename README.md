@@ -9,18 +9,6 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
-## TODO
-一些想做但没有实施的想法，未来可能会实施。<br>
-
-### 数据统计
-最初构想：依赖lookup。从数字t开始lookup unit类型保存为unitresult ，然后进入unitresult的数量检测程序，将值存在内存t位。另一个处理器依次读取内存位，并lookup内存位表示的unit，直接循环就能打印出来。<br>
-20210816<br>
-计数部分制作完成，现正着手于构建图像部分。目前在规划位置以计算坐标，以及构建数字显示模块。由于我从未研究过数字显示，这可能需要花一点时间。<br>
-[获取计数模块](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/basic.txt)<br>
-20210817<br>
-制作完成。<br>
-[监视器](#监视器)<br>
-
 ## v7
 
 ### 攻击
@@ -447,6 +435,18 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 9.autorepair<br>
 尝试用一种简单的逻辑让受损的poly和mega自动前往维修点。如果没有维修点，会停在核心。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorepair.txt)<br>
+
+## TODO
+一些想法，未来可能会实施。<br>
+
+### 数据统计
+最初构想：依赖lookup。从数字t开始lookup unit类型保存为unitresult ，然后进入unitresult的数量检测程序，将值存在内存t位。另一个处理器依次读取内存位，并lookup内存位表示的unit，直接循环就能打印出来。<br>
+20210816<br>
+计数部分制作完成，现正着手于构建图像部分。目前在规划位置以计算坐标，以及构建数字显示模块。由于我从未研究过数字显示，这可能需要花一点时间。<br>
+[获取计数模块](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/basic.txt)<br>
+20210817<br>
+制作完成。<br>
+[监视器](#监视器)<br>
 
 # For old versions
 
