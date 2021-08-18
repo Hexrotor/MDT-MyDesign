@@ -5,7 +5,7 @@
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 此处分享的各种炮塔站点类蓝图是我图方便做的，请各位自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与我无关。__<br>
-**注意，我的游戏版本为<code>129.2</code>**<br>
+**注意，我的游戏版本为<code>130</code>**<br>
 本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
@@ -378,8 +378,9 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 这里可能是一些工具，或者一些娱乐向蓝图。
 
 #### 监视器(20210818)
-显示单位个数、发电量和核心物品数量(需要生产任意一种单位)。使用的是微型处理器，故至少需要1分钟来启动，有需求可以自行换成其它的。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitordemo.txt)
+显示单位个数、发电量、能量I/O和核心物品统计(需要生产任意一种单位)。微型处理器版本至少需要1分钟来启动，但效果也不差，有需求可以用逻辑处理器版本或自行换成其它的。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
+[获取微型处理器版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitordemo.txt)<br>
+[获取逻辑处理器版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)<br>
 
 <details><summary>展开图片</summary>
 
