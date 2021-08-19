@@ -11,6 +11,10 @@
 通用结构，我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/simpleglass.txt)<br>
 
+## 5玻璃
+我不知道作者。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/glass5x.txt)<br>
+
 ## 12硅
 我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/si12x.txt)<br>
