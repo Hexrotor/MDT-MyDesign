@@ -7,7 +7,7 @@
 此处分享的各种炮塔站点类蓝图是我图方便做的，请各位自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 __此处的很多蓝图并不适合在服务器使用，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
 **注意，我的游戏版本为<code>130</code>**<br>
-jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链接实时同步最新文件，但国内有时无法访问。br>
+jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
 ## v7
@@ -45,7 +45,6 @@ jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链�
 此逻辑控制指定类型的单位到核心携带指定物品，携带后自动释放单位。<br>
 **没有调用冲突检测!**<br>
 
-获取：
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/takeitem.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/takeitem.txt)
