@@ -1,12 +1,13 @@
 # Mindustry-Myblueprint
-萌新个人制作蓝图和逻辑，仅适用于战役。未照搬他人作品，部分有参考。如有雷同纯属雷同，欢迎体验！<br>
+萌新个人制作蓝图和逻辑，适用于战役。未照搬他人作品，部分有参考。如有雷同纯属雷同，欢迎体验！<br>
+贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)<br>
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 此处分享的各种炮塔站点类蓝图是我图方便做的，请各位自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
-__请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与我无关。__<br>
+__此处的很多蓝图并不适合在服务器使用，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
 **注意，我的游戏版本为<code>130</code>**<br>
-本页链接均使用jsDelivrCDN，故存在一定延迟。<br>
+jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链接实时同步最新文件，但国内有时无法访问。br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
 ## v7
@@ -29,11 +30,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 
 **没有调用冲突检测！**<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/boom1.2.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/boom1.2.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/boom1.2.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/boom1.2.jpg)
 
 </details>
 
@@ -41,11 +45,15 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 此逻辑控制指定类型的单位到核心携带指定物品，携带后自动释放单位。<br>
 **没有调用冲突检测!**<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/takeitem.txt)
+获取：
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/takeitem.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/takeitem.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/takeitem.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/takeitem.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/takeitem.jpg)
 
 </details>
 
@@ -58,23 +66,32 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 ##### 供弹模板
 容器、处理器、开关与装卸器是必要的，其他部分均可自由搭配。如果你想调整位置，则需要重新配置处理器。<br>
 
-[获取模板](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/remotesup.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/remotesup.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/remotesup.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/remotesup.jpg)
 
 </details>
 
 ##### 串联蜂群
 如果你想，你可以从外部供弹。对于弹夹版，需要与<a href="#仓库转移">仓库转移</a>配合使用。<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.txt)
-[获取弹夹版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmerx.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/swarmer.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/swarmer.txt)<br>
+获取弹夹版：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmerx.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/swarmerx.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/swarmerx.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/swarmer.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/swarmer.jpg)
 
 </details>
 
@@ -83,33 +100,46 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 #### 煤站改
 修改后的煤站，装弹效率有点低，但增加了库存。<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coal2.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coal2.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coal2.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coal2.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coal2.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/coal2.jpg)
 
 </details>
 
 #### 钍站
 需要放入钍来启动(也可自启动)，启动过程会轻微负电。Plus版有更多的炮塔但修复器不能将其完全覆盖。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
-[Plus获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tu.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tu.txt)<br>
+PLUS获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tuplus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tuplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/tu.png)
-![PLUS预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/tuplus.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tu.png)
+![PLUS预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tuplus.png)
 
 </details>
 
 #### 石油站
 需要从左下供应石油，小心起火。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/petroleum.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/petroleum.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/petroleum.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/petroleum.png)
 
 </details>
 
@@ -118,11 +148,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 每种单位的参数不一致，若不想控制所有单位，可以只保留对应单位的处理器。电弧和内存是必要的。<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/followplayer1.1.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/followplayer.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/followplayer.jpg)
   
 </details>
 
@@ -135,11 +168,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 关于<code>$聚集半径</code>，我没有选择自动检测单位攻击范围，例如Arkyid的的范围肯定不止5格，但它发射的激光才是它最强的武器，而激光的范围只有大约8格，且闪电球对空中目标没有伤害。经过多次实验，我将其设置为5格。<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/arkyid.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/arkyid.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/arkyid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/arkyid.jpg)
 
 </details>
 
@@ -150,11 +186,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 右侧处理器可控参数：$UnitBind、$判定半径<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/movepoint.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/movepoint.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/movepoint.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/movepoint.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/movepoint.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/movepoint.jpg)
 
 </details>
 
@@ -162,11 +201,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 通过"电弧"操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
 
 **没有调用冲突检测！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/airctrl.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/airctrl.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/airctrl.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/airctrl.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/airctrl.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/airctrl.jpg)
 
 </details>
 
@@ -175,11 +217,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 按钮的功能：左侧按钮解除热量限制，即引爆；右侧按钮选择调用星辉或独影，默认为星辉。<br>
 
 **仅调用闲置的单位，调用的单位会被赋予随机flag值以供其余处理器区分，结束后恢复flag值为0。当心你的支援单位被误伤！**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autoboom.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autoboom.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/autoboom.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/autoboom.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/autoboom.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/autoboom.jpg)
 
 </details>
 
@@ -188,32 +233,41 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 此逻辑的行为：当钍堆过热时将其禁用，并让一个可用的雷霆单位(health>1500)带上它并重构钍堆。当检测到雷霆单位生命值低于1000时并未处于己方核心半径50以内时，使其投放携带的任意荷载(钍堆)，不论何地。<br>
 总之，这个逻辑十分危险，不要轻易使用它。自带的开关可以停用其所有功能。<br>
 **仅调用符合要求的、闲置的雷霆单位。如果构建钍堆的雷霆单位不存在，则调用一个幻型构建。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/thpush.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/thpush.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/thpush.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/thpush.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/thpush.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/thpush.jpg)
 
 </details>
 
 #### 污水站
 放在污水里才能正常工作。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dirtywater.txt)<br>
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dirtywater.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dirtywater.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dirtywater.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/dirtywater.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/dirtywater.jpg)
 
 
 </details>
 
 #### 水站重制版
 重新拼的大水站，可以在v7上工作。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/water7.txt)<br>
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/water7.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/water7.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/water7.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/water7.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/water7.jpg)
 
 </details>
 
@@ -224,11 +278,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 调用巨像自动开采核心内最少的物品(铜铅钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动寻找维修点。优先攻击敌人，并反复横跳躲避攻击。本逻辑兼容所有可飞行的矿机，自行更改unit bind即可(对于开采等级低的单位会出问题，可以通过分类器强制指定开采矿物)。由于技术原因自动修复功能仅对巨像单位开放。<br>
 
 **仅调用闲置的0flag单位。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/megaplus.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/megaplus.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/megaplus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/megaplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/megaplus.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/megaplus.jpg)
 
 </details>
 
@@ -237,11 +294,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 有时候我们可能造不了mega单位，这也许会有一定帮助。<br>
 
 **仅调用未被处理器控制的单位。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/repairuni.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/repairuni.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/repairuni.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/repairuni.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/repairuni.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/repairuni.jpg)
 
 </details>
 
@@ -250,11 +310,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 时代的眼泪，纪念104。<br>
 
 **仅调用未被处理器控制的单位。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyc.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyc.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/polyc.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/polyc.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/polyc.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/polyc.jpg)
 
 </details>
 
@@ -262,11 +325,14 @@ __请不要尝试在服务器使用我分享的任何蓝图，如果被骂了与
 显示物品统计并当仓库单物品容量仅剩50时控制独影将物品搬运到核心。需要手动链接仓库(一对一)，并在代码内设置仓库名称。<br>
 
 **调用单位可自行修改，仅调用闲置的单位，调用的单位会被赋予同一随机flag值以供其余处理器区分。由于技术原因flag值不会恢复，但不影响本逻辑的运行。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/itemtrans.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/itemtrans.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/itemtrans.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/itemtrans.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/itemtrans.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/itemtrans.jpg)
 
 </details>
 
@@ -281,11 +347,14 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 处理器内允许自定义的值: $坐标误差、$仓库、$物品最大值、$物品最小值、$单位配对码、$搜索半径倍数、$跳过距离匹配<br>
 
 **没有调用冲突检测！调用单位可自行修改，仅调用符合条件的单位，调用中的单位会被赋予唯一flag值以供其余处理器区分。请注意单位的payload容量。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/paytrans.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/paytrans.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/paytrans.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/paytrans.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/paytrans.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/paytrans.jpg)
 
 
 </details>
@@ -294,41 +363,53 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 集成了[坐标移动](#坐标移动)、[单位带货](#单位带货)、[幻型修复经典版](#幻型修复经典版)。自动控制幻型的生产，默认生产2个，可调。<br>
 左下处理器可自定义的值：$幻型数量<br>
 **由于集成了多个逻辑，请去各逻辑描述处查看注意事项。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coreunit.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coreunit.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coreunit.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coreunit.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/coreunit.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/coreunit.jpg)
 
 </details>
 
 #### 废料冲击
 可能需要绿带才能带动，稳定后发电量7.7k左右。带安全启动与低血自停。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/reactor.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/reactor.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/reactor.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/reactor.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/reactor.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/reactor.png)
 
 </details>
 
 #### 废料大超速
 可能需要一些时间才能稳定运行，可以放入相织物使其稳定。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/fwbooster.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/fwbooster.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/fwbooster.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/fwbooster.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/fwbooster.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/fwbooster.jpg)
 
 </details>
 
 #### 智能力墙
 人手一个的智能力墙。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sforce.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sforce.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/sforce.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/sforce.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/sforce.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/sforce.jpg)
 
 </details>
 
@@ -336,41 +417,53 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 调用单位挖材料并生产硅放入仓库，没啥用，有时也许有奇效。可配合其他逻辑使用，比如仓库搬运。<br>
   
 **调用策略同"Mega自动挖矿"逻辑，单位默认为耀星。**<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/si.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/si.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/si.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/si.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/si.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/si.jpg)
 
 </details>
 
 #### 五连冷冻液
 下方进料，自带一个罐体。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/x5fluid.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/x5fluid.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/x5fluid.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/x5fluid.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/x5fluid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/x5fluid.jpg)
 
 </details>
 
 #### 串联冷冻液
 左方进料，五个一组。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multifluid.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multifluid.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/multifluid.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/multifluid.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/multifluid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/multifluid.jpg)
 
 </details>
 
 #### 6温差串联结构
 以6温差为一组的串联结构，需要外部供应冷冻液与炻，净发电量9.4k。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tgen.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tgen.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/tgen.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tgen.jpg)
 
 </details>
 
@@ -379,12 +472,18 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 #### 监视器v1.1(20210818)
 显示单位个数(0\~99)、净发电量(0\~99K)、能量I/O和核心物品统计(需要生产任意一种单位)。微型处理器版本至少需要1分钟来启动，但效果也不差，有需求可以用逻辑处理器版本或自行换成其它的。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
-[获取微型处理器版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitordemo.txt)<br>
-[获取逻辑处理器版](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)<br>
+获取微型处理器版：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitordemo.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitordemo.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitordemo.txt)<br>
+获取逻辑处理器版：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitorplus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitorplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/monitordemo.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/monitordemo.jpg)
 
 </details>
 
@@ -393,11 +492,14 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 需要手动链接荷载后在逻辑编辑中将荷载关联到变量。使用分类器选择要检测的物品，使用开关切换要检测的液体，一次只能检测一种物品和液体。<br>
 为避免混乱，效率与进程曲线不会被绘制，进程进度被绘制为横向移动的紫色进度条。<br>
 处理器内可自定义的值：$检测荷载、$x轴增量、$速率更新间隔<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitor.txt)
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitor.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitor.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitor.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/images/monitor.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/monitor.png)
 
 </details>
 
