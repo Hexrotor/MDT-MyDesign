@@ -537,6 +537,12 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 9.autorepair<br>
 尝试用一种简单的逻辑让受损的poly和mega自动前往维修点。如果没有维修点，会停在核心。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorepair.txt)<br>
+10.arctrl<br>
+像摇杆一样控制一种单位移动并射击。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/yg.txt)<br>
+11.birdgame<br>
+控制小飞机跳跃并避开障碍物。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/birdgame.txt)<br>
 
 ## TODO
 一些想法，未来可能会实施。<br>
