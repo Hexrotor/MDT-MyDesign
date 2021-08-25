@@ -142,19 +142,28 @@ PLUS获取：
 
 </details>
 
-#### 跟随四联v1.1
-一个较为完善的跟随逻辑，四个处理器分别控制陆辅T1~T4。通过"电弧"操控单位前往指定坐标攻击或跟随玩家攻击，可远程追踪玩家，距离超过50启动boost。玩家未控制时自动攻击敌人，但不会攻击敌方建筑。注意不要进入石油、深水区域。<br>
-每种单位的参数不一致，若不想控制所有单位，可以只保留对应单位的处理器。电弧和内存是必要的。<br>
+#### 通用跟随v1.2
+一个几乎完善的跟随逻辑，通过调整可控变量几乎能适用于任何单位。由它控制的单位具有如下行为。<br>
+
+* 跟随玩家并同步攻击，不会跟丢。除非单位撞墙了，否则它会始终同步前往玩家坐标。<br>
+* 可通过"电弧"操控单位前往指定坐标攻击。<br>
+* 当受控单位与目标位置距离超过<code>boost距离</code>设定的值，启动boost(如果它可以)。<br>
+* 玩家未有任何操作的时候，受控单位自动攻击附近敌人，但不会自动攻击敌方建筑。<br>
+* 当玩家控制的单位死了或者玩家不控制那个单位了，受控单位会停在玩家存在的最后位置(这不影响他们自动攻击)，直到玩家使用电弧控制或受控单位雷达再次发现玩家。<br>
+* 受控单位的开火坐标将按<code>$开火缩减比率</code>设定的值缩减。比如设定的值为3，则将target坐标缩减为之前的1/3。这有助于让单位接近目标之前提前开炮，在某些时候非常有用。<br>
+
+每种单位的参数不一致，默认的参数针对vela。如果你想尝试更多单位，请在沙盒中自行调试。<br>
+可控参数：$闲置半径、$电弧开火半径、$开火缩减比率、$boost距离<br>
 
 **没有调用冲突检测！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/followplayer1.1.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/followplayer1.1.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.2.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/followplayer1.2.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/followplayer1.2.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/followplayer.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/followplayer1.2.jpg)
   
 </details>
 
