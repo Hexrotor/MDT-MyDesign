@@ -552,6 +552,9 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 11.birdgame<br>
 控制小飞机跳跃并避开障碍物。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/birdgame.txt)<br>
+12.disableifpowerfull<br>
+当连接到的荷载所在电网耗电量低于发电量时，将其禁用。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disifpowerfull.txt)<br>
 
 ## TODO
 一些想法，未来可能会实施。<br>
