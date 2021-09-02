@@ -6,7 +6,7 @@
 或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
 此处分享的各种炮塔站点类蓝图是我图方便做的，请各位自行判断后使用。我建议还是动动手按地形建立防线比较妥当。<br>
 __此处的很多蓝图并不适合在服务器使用，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
-**注意，我的游戏版本为<code>130</code>**<br>
+**注意，我的游戏版本为<code>130.1</code>**<br>
 jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
 [![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge?style=rounded)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
@@ -508,6 +508,20 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/monitor.png)
+
+</details>
+
+#### 简易单位血量测试器
+使用冰雹炮的雷达搜索一个单位，测算其血量变化速率，将相关结果打印到信息板。<br>
+处理器内可自定义的项：$血量检测秒、Rader<br>
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unithealthtester.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/unithealthtester.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/unithealthtester.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/unithealthtester.png)
 
 </details>
 
