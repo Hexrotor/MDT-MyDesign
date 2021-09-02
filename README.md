@@ -8,7 +8,7 @@
 __此处的很多蓝图并不适合在服务器使用，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
 **注意，我的游戏版本为<code>130</code>**<br>
 jsDelivrCDN链接能保证访问，但存在一定延迟。RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
-[![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
+[![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge?style=rounded)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
 
 ## v7
 
