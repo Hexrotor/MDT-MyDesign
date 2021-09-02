@@ -511,9 +511,9 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 </details>
 
-#### 简易单位血量测试器
+#### 简易单位血量测试器(20210903)
 使用冰雹炮的雷达搜索一个单位，测算其血量变化速率，将相关结果打印到信息板。<br>
-处理器内可自定义的项：$血量检测秒、Rader<br>
+处理器内可自定义的项：$血量检测秒、$连续搜索、Rader<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unithealthtester.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/unithealthtester.txt)
@@ -529,6 +529,9 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 演示系列<br>
 此系列多为我对逻辑玩法的探索或对实现一些功能的尝试。<br>
 名字乱写的，逻辑乱写的。没有预览图，这不重要。<br>
+
+<details><summary>展开所有</summary>
+
 1.aidemo<br>
 使一种单位满地图乱跑并攻击敌人，直到接近敌人出生点后停下。<br>
 原理是检测前方地形是否能通过，若遇到墙则进行一组运算来面向一定夹角范围内的随机方向继续前进。<br>
@@ -567,8 +570,10 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 控制小飞机跳跃并避开障碍物。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/birdgame.txt)<br>
 12.disableifpowerfull<br>
-当连接到的荷载所在电网耗电量低于发电量时，将其禁用。<br>
+当连接到的荷载所在电网耗电量低于发电量时，将其禁用。我将其用于自动启动备用电源。稍加改动代码可以实现反向工作。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disifpowerfull.txt)<br>
+
+</details>
 
 ## TODO
 一些想法，未来可能会实施。<br>
