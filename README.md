@@ -521,7 +521,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/unithealthtester.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/unithealthtester.jpg)
 
 </details>
 
