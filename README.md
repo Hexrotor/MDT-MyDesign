@@ -39,7 +39,7 @@ v1.2(20210805)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/boom1.2.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/boom1.2.jpg)
 
 </details>
 
@@ -54,7 +54,7 @@ v1.2(20210805)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/takeitem.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/takeitem.jpg)
 
 </details>
 
@@ -74,7 +74,7 @@ v1.2(20210805)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/remotesup.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/remotesup.jpg)
 
 </details>
 
@@ -92,7 +92,7 @@ v1.2(20210805)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/swarmer.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/swarmer.jpg)
 
 </details>
 
@@ -108,7 +108,7 @@ v1.2(20210805)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/coal2.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coal2.jpg)
 
 </details>
 
@@ -126,8 +126,8 @@ PLUS获取：
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tu.png)
-![PLUS预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tuplus.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tu.png)
+![PLUS预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tuplus.png)
 
 </details>
 
@@ -140,7 +140,7 @@ PLUS获取：
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/petroleum.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/petroleum.png)
 
 </details>
 
@@ -166,7 +166,7 @@ v1.2<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/followplayer1.2.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/followplayer1.2.jpg)
   
 </details>
 
@@ -187,7 +187,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/arkyid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/arkyid.jpg)
 
 </details>
 
@@ -206,7 +206,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/movepoint.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/movepoint.jpg)
 
 </details>
 
@@ -221,7 +221,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/airctrl.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/airctrl.jpg)
 
 </details>
 
@@ -237,7 +237,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/autoboom.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/autoboom.jpg)
 
 </details>
 
@@ -253,7 +253,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/thpush.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/thpush.jpg)
 
 </details>
 
@@ -266,7 +266,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/dirtywater.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dirtywater.jpg)
 
 
 </details>
@@ -280,7 +280,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/water7.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/water7.jpg)
 
 </details>
 
@@ -299,7 +299,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/megaplus.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/megaplus.jpg)
 
 </details>
 
@@ -315,7 +315,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/repairuni.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/repairuni.jpg)
 
 </details>
 
@@ -331,7 +331,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/polyc.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/polyc.jpg)
 
 </details>
 
@@ -346,7 +346,7 @@ v1.1(20210825)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/itemtrans.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/itemtrans.jpg)
 
 </details>
 
@@ -369,7 +369,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/paytrans.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/paytrans.jpg)
 
 
 </details>
@@ -386,7 +386,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/coreunit.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coreunit.jpg)
 
 </details>
 
@@ -399,7 +399,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/reactor.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/reactor.png)
 
 </details>
 
@@ -412,7 +412,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/fwbooster.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/fwbooster.jpg)
 
 </details>
 
@@ -425,7 +425,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/sforce.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/sforce.jpg)
 
 </details>
 
@@ -440,7 +440,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/si.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/si.jpg)
 
 </details>
 
@@ -453,7 +453,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/x5fluid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/x5fluid.jpg)
 
 </details>
 
@@ -466,7 +466,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/multifluid.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/multifluid.jpg)
 
 </details>
 
@@ -479,7 +479,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/tgen.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tgen.jpg)
 
 </details>
 
@@ -500,7 +500,7 @@ v1.2(20210831)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/monitordemo.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitordemo.jpg)
 
 </details>
 
@@ -516,7 +516,7 @@ v1.2(20210831)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/monitor.png)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitor.png)
 
 </details>
 
@@ -531,7 +531,7 @@ v1.2(20210831)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/unithealthtester.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/unithealthtester.jpg)
 
 </details>
 
@@ -632,3 +632,6 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 # 其他分享
 一些非我原创的蓝图。<br>
 点击查看：[SHARE.md](/SHARE.md)
+
+一些自制测试地图。<br>
+点击查看：[MAPS.md](/MAPS.md)
