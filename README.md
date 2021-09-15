@@ -640,3 +640,6 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 
 一些自制测试地图。<br>
 点击查看：[MAPS.md](/MAPS.md)
+
+一些装饰品。<br>
+点击查看：[ART](ART.md)
