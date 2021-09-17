@@ -476,7 +476,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 </details>
 
 #### 6温差串联结构
-以6温差为一组的串联结构，需要外部供应冷冻液与炻，净发电量9.4k。<br>
+以6温差为一组的串联结构，需要外部供应冷冻液与硫化物，净发电量9.4k。<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tgen.txt)
@@ -537,6 +537,24 @@ v1.2(20210831)<br>
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/unithealthtester.jpg)
+
+</details>
+
+#### 建造指挥台
+调用nova建造指定的建筑，选好方块后，打开开关，电弧指哪儿建哪儿。战役跳科技神器。<br>
+举个例子，我有硅钛了，但是没有玻璃，所以不能建造这玩意儿的显示器。<br>
+我将`$setblock`设置为`@kiln`来建造窑炉，于是就能获得玻璃、解锁塑钢等。顺便能补上这玩意儿的显示器。<br>
+
+可自定义参数：`$setblock`、`$rotation`<br>
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/buildhelper_plus.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/buildhelper_plus.jpg)
 
 </details>
 
@@ -604,6 +622,9 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 
 ### 建造指挥台
 最初构想：用显示器和逻辑仿制一个游戏右下角的建造选项卡，使用电弧实现触屏，支持滑动等操作。选择物品后，显示需要的资源数，电弧指哪儿建哪儿。<br>
+20210917<br>
+相关逻辑已由大猫制作并接近尾声，本人比较懒也比较菜，故只做了一个低配版。<br>
+[建造指挥台](#建造指挥台)<br>
 
 # For old versions
 
@@ -642,4 +663,4 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 点击查看：[MAPS.md](/MAPS.md)
 
 一些装饰品。<br>
-点击查看：[ART](ART.md)
+点击查看：[ART.md](ART.md)
