@@ -547,6 +547,8 @@ v1.2(20210831)<br>
 
 可自定义参数：`$setblock`、`$rotation`<br>
 
+没有调用冲突检测！
+
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
