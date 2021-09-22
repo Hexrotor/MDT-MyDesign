@@ -553,7 +553,11 @@ v1.2(20210831)<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/buildhelper_plus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/buildhelper_plus.txt)<br>
+
+Beta版本<br>
+测试功能：斜线拖拽建造时，会先沿x轴修建，再沿y轴修建(适用于拉传送带)。这是未测试的版本，可能有bug。<br>
+获取：[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/beta/buildhelper_plus.txt)
 
 <details><summary>展开图片</summary>
 
