@@ -541,12 +541,13 @@ v1.2(20210831)<br>
 </details>
 
 #### 建造指挥台
+v1.1(20210923)<br>
 [视频介绍](https://www.bilibili.com/video/BV1M341127hd)<br>
 调用nova建造指定的建筑。选好方块后，打开开关，电弧指哪儿建哪儿；关闭开关，可取样并复制方块。拖拽转向。战役跳科技神器。<br>
 举个例子，我有硅钛了，但是没有解锁玻璃，所以不能建造这玩意儿的显示器。<br>
 我将`$setblock`设置为`@kiln`来建造窑炉，于是就能解锁玻璃、塑钢等。顺便能补上这玩意儿的显示器。<br>
 
-可自定义参数：`$setblock`、`$转向滑动长度`、`$转向判定时间`、`$buildcooldown`<br>
+可自定义参数：`$setblock`、`$转向滑动长度`、`$转向判定时间`<br>
 
 仅调用未被控制的单位。<br>
 
@@ -554,10 +555,6 @@ v1.2(20210831)<br>
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
 [RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/buildhelper_plus.txt)<br>
-
-Beta版本<br>
-测试功能：斜线拖拽建造时，会先沿x轴修建，再沿y轴修建(适用于拉传送带)。这是未测试的版本，可能有bug。<br>
-获取：[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/beta/buildhelper_plus.txt)
 
 <details><summary>展开图片</summary>
 
