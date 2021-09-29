@@ -492,20 +492,16 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 这里可能是一些工具，或者一些娱乐向蓝图。
 
 #### 全局监视器
-v1.2(20210831)<br>
-显示单位个数(0\~99)、净发电量(0\~99K)、能量I/O和核心物品统计(需要生产任意一种单位)。微型处理器版本至少需要1分钟来启动，但效果也不差，有需求可以用逻辑处理器版本或自行换成其它的。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
-获取微型处理器版：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitordemo.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitordemo.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitordemo.txt)<br>
-获取逻辑处理器版：
+v1.3(20210929)<br>
+显示单位个数(0\~99)、净发电量(0K\~99K)、能量I/O和核心物品统计(需要生产任意一种单位)。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
+获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitorplus.txt)
 [RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitorplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitordemo.jpg)
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitorplus.jpg)
 
 </details>
 
