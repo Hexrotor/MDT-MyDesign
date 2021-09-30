@@ -499,6 +499,8 @@ v1.3(20210929)<br>
 [PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitorplus.txt)
 [RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitorplus.txt)
 
+1.4beta：[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/monitorplus.txt)
+
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitorplus.jpg)
@@ -537,7 +539,7 @@ v1.3(20210929)<br>
 </details>
 
 #### 建造指挥台
-v1.2(20210928)<br>
+v1.2(20210929)<br>
 [视频介绍](https://www.bilibili.com/video/BV1M341127hd)<br>
 战役跳科技神器，通过控制电弧调用`@nova`建造指定的建筑。点击显示器两侧切换方块，选好方块后，打开开关，电弧指哪儿建哪儿，拖拽转向；关闭开关，可取样并复制方块。点击墙壁可快速进入取样模式，再次点击墙壁退出取样模式。<br>
 举个例子，我有硅钛了，但是没有解锁玻璃，所以不能建造这玩意儿的显示器。<br>
