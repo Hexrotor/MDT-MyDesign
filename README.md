@@ -612,7 +612,7 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 模拟单摆。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/g.txt)<br>
 15.anysensor<br>
-snesor\&print<br>
+sensor\&print<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/anysensor.txt)<br>
 
 </details>
