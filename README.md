@@ -605,7 +605,12 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 12.disableifpowerfull<br>
 当连接到的荷载所在电网耗电量低于发电量时，将其禁用。我将其用于自动启动备用电源。稍加改动代码可以实现反向工作。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disifpowerfull.txt)<br>
-
+13.memreader<br>
+读取内存。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/memreader.txt)<br>
+14.g<br>
+模拟单摆。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/g.txt)<br>
 </details>
 
 ## TODO
