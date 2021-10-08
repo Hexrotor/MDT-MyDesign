@@ -558,6 +558,16 @@ v1.2(20210929)<br>
 
 </details>
 
+#### 满物禁用器
+如果选择的物品在核心中已满，则禁用连接到的荷载。需要存在任意可被绑定的单位。<br>
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disableifhomefull.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/disableifhomefull.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/disableifhomefull.txt)<br>
+
+就一个微核，不放图了。
+
 #### Demos
 演示系列<br>
 此系列多为我对逻辑玩法的探索或对实现一些功能的尝试。<br>
