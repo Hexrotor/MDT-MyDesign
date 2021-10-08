@@ -82,6 +82,7 @@ v1.2(20210805)<br>
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/remotesup.jpg)
 
 </details>
+</details>
 
 ### 钍站
 
