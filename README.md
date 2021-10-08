@@ -83,41 +83,8 @@ v1.2(20210805)<br>
 
 </details>
 
-##### 串联蜂群
-如果你想，你可以从外部供弹。对于弹夹版，需要与[仓库转移](#仓库转移)配合使用。<br>
+### 钍站
 
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmer.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/swarmer.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/swarmer.txt)<br>
-获取弹夹版：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/swarmerx.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/swarmerx.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/swarmerx.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/swarmer.jpg)
-
-</details>
-
-</details>
-
-#### 煤站改
-修改后的煤站，装弹效率有点低，但增加了库存。<br>
-
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coal2.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coal2.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coal2.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coal2.jpg)
-
-</details>
-
-#### 钍站
 需要放入钍来启动(也可自启动)，启动过程会轻微负电。Plus版有更多的炮塔但修复器不能将其完全覆盖。<br>
 
 获取：
@@ -133,19 +100,6 @@ PLUS获取：
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tu.png)
 ![PLUS预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tuplus.png)
-
-</details>
-
-#### 石油站
-需要从左下供应石油，小心起火。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/petroleum.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/petroleum.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/petroleum.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/petroleum.png)
 
 </details>
 
@@ -215,7 +169,7 @@ v1.1(20210825)<br>
 
 </details>
 
-#### T3&T4红飞机控制
+#### T3&T4空攻控制
 通过"电弧"操控T3&T4红飞机单位前往指定坐标攻击。若玩家不控制，则自动锁定并攻击附近敌人。锁定后可远程追踪，需要手动操作才能切换锁定对象。<br>
 
 **没有调用冲突检测！**<br>
@@ -273,19 +227,6 @@ v1.1(20210825)<br>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dirtywater.jpg)
 
-
-</details>
-
-#### 水站重制版
-重新拼的大水站，可以在v7上工作。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/water7.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/water7.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/water7.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/water7.jpg)
 
 </details>
 
@@ -392,19 +333,6 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coreunit.jpg)
-
-</details>
-
-#### 废料冲击
-可能需要绿带才能带动，稳定后发电量7.7k左右。带安全启动与低血自停。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/reactor.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/reactor.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/reactor.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/reactor.png)
 
 </details>
 
