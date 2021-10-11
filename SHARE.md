@@ -7,10 +7,6 @@
 [源发布地址](https://tieba.baidu.com/p/7367506512)<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/tu5x.txt)<br>
 
-## 简易玻璃6x
-通用结构，我不知道作者。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/simpleglass.txt)<br>
-
 ## 5玻璃
 我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/glass5x.txt)<br>
@@ -18,3 +14,16 @@
 ## 12硅
 我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/si12x.txt)<br>
+
+## 10x10废冲(10x10 scrapact v7 internal incin)
+From discord #schematics<br>
+Description:<br>
+
+Logic made by bidun<br>
+Layout made by SW, parts taken from Absolutes design<br>
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/scrapact_10x10.txt)<br>
+
+<details><summary>预览</summary>
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/share/images/scrapact_10x10.jpg)<br>
+</details>
