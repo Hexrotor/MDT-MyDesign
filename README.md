@@ -513,6 +513,9 @@ autobuild只控制一个poly，multibuild控制所有poly。<br>
 15.anysensor<br>
 sensor\&print<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/anysensor.txt)<br>
+16.stackunit<br>
+叠放灾星。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/stackunit.txt)<br>
 
 </details>
 
