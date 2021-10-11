@@ -218,7 +218,7 @@ v1.1(20210825)<br>
 
 </details>
 
-#### 污水站
+#### 污水石墨幽灵
 放在污水里才能正常工作。<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dirtywater.txt)
@@ -364,21 +364,6 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 </details>
 
-#### 原地出硅
-调用单位挖材料并生产硅放入仓库，没啥用，有时也许有奇效。可配合其他逻辑使用，比如仓库搬运。<br>
-  
-**调用策略同"Mega自动挖矿"逻辑，单位默认为耀星。**<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/si.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/si.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/si.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/si.jpg)
-
-</details>
-
 #### 五连冷冻液
 下方进料，自带一个罐体。<br>
 获取：
@@ -389,32 +374,6 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/x5fluid.jpg)
-
-</details>
-
-#### 串联冷冻液
-左方进料，五个一组。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multifluid.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/multifluid.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/multifluid.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/multifluid.jpg)
-
-</details>
-
-#### 6温差串联结构
-以6温差为一组的串联结构，需要外部供应冷冻液与硫化物，净发电量9.4k。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tgen.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tgen.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tgen.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tgen.jpg)
 
 </details>
 
