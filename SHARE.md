@@ -25,5 +25,7 @@ Layout made by SW, parts taken from Absolutes design<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/scrapact_10x10.txt)<br>
 
 <details><summary>预览</summary>
+
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/share/images/scrapact_10x10.jpg)<br>
+
 </details>
