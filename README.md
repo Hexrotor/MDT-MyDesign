@@ -537,6 +537,16 @@ sensor\&print<br>
 相关逻辑已由大猫制作完成，本人比较懒也比较菜，故只做了一个低配版。<br>
 [建造指挥台](#建造指挥台)<br>
 
+### 仓库转移v2
+做成单向控制运输，配合新出的Payload Unloader加快卸载速度。用电弧来确定Payload Unloader的位置，删除内存块。
+预计所需方块：<br>
+microprocessor 1<br>
+message 1<br>
+sorter 1 对于卸载时而言，不选择即等待其全部卸载，若选择则等待选择物全部卸载。<br>
+arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸载点且逻辑控制不适用，故一开始须要求玩家控制arc来选择卸载点的位置并绑定。<br>
+
+预计一年后开始制作。
+
 # For old versions
 
 这些蓝图只能在旧版本正常工作且不会再更新。
