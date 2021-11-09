@@ -457,6 +457,16 @@ v1.2(20211010)<br>
 
 就一个微核，不放图了。
 
+#### 通用反应堆控制器
+此逻辑具有如下行为：<br>
+当连接到的荷载是启用状态且物品总数小于3，荷载会被禁用。<br>
+当连接到的荷载是禁用状态，但物品总数达到10以上时，荷载会被启用。<br>
+当连接到的荷载内冷冻液不足1个单位，荷载会被禁用。此行为具有最高优先级。<br>
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unireactorc.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/unireactorc.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/unireactorc.txt)<br>
+
 #### Demos
 演示系列<br>
 此系列多为我对逻辑玩法的探索或对实现一些功能的尝试。<br>
