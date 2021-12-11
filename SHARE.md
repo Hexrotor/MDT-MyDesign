@@ -15,12 +15,12 @@
 我不知道作者。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/si12x.txt)<br>
 
-## 10x10废冲(10x10 scrapact v7 internal incin)
+## 10x10废冲(scrapact)
 From discord #schematics<br>
 Description:<br>
 
-Logic made by bidun<br>
-Layout made by SW, parts taken from Absolutes design<br>
+Logic made by bidun(modified by Hexrotor, now supports delay-startup.<br>
+Layout made by SW, parts taken from Absolutes design.<br>
 
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/share/base64text/scrapact_10x10.txt)<br>
 

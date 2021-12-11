@@ -9,7 +9,7 @@ __此处列出的蓝图逻辑均未在服务器测试过，请自行判断。如
 jsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。<br>
 RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
 
-**注意，我的游戏版本为`134`**<br>
+**注意，我的游戏版本为`135`**<br>
 
 贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)<br>
 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
