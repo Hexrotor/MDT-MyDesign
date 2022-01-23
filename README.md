@@ -19,33 +19,6 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<
 ## 攻击
 这里包含攻击相关的蓝图。
 
-### 雷霆敢死队
-v1.2(20210805)<br>
-控制雷霆自动从核心拿爆混后轰炸敌方炮塔或核心，并在低于一定生命值时自动返回核心。自动携带地面单位(最多4个，但跟随模式不受限制)，自动攻击地面敌人。附近有敌人(包括空军)自动释放单位，低生命值返回核心时自动释放单位，关闭携带开关时释放所有单位。单位携带数、最低生命值、携带物、轰炸对象可自定义。<br>
-注意：由于代码过多，单位过多时某些功能可能效果不佳；单位携带功能不一定实用，请酌情使用；判断可携带单位使用了血量比对(仅携带900及以下，但跟随模式不受限制)，所以你如果安装了某些模组，这可能会引发问题。<br>
-
-行为优先级：取携带物>跟随玩家=自爆=释放单位>攻击核心>低血量返回>攻击敌人>携带单位>攻击炮塔<br>
-
-按钮的功能：<br>
-* 左下为总开关，开启后从核心拿爆混后自动轰炸敌方炮塔，并在低于一定生命值时返回。若低于设定的自爆生命值，则会冲向敌方炮塔直到爆炸。<br>
-* 左上为轰炸核心开关，开启后会直接拿爆混冲向敌方核心，不会返回。此开关比右上玩家操控开关优先级低，但此开关开启时影响玩家操控模式时的低血量返回程序，即低血量不会返回。<br>
-* 右上为跟随玩家开关，开启后会覆盖轰炸核心的命令，优先跟随玩家。此开关开启时，玩家可以通过操控"电弧"来控制单位移动，玩家可带2~3个雷霆绕到敌方核心，并在接近时关闭并切换到轰炸核心命令。<br>
-* 顶部为单位携带开关，开启后自动携带附近陆军，关闭后释放所有单位。<br>
-* 分类器可以选择携带物，默认为爆混。<br>
-
-**没有调用冲突检测！**<br>
-
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/boom1.2.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/boom1.2.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/boom1.2.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/boom1.2.jpg)
-
-</details>
-
 ### 单位带货
 此逻辑控制指定类型的单位到核心携带指定物品，携带后自动释放单位。<br>
 **没有调用冲突检测!**<br>
@@ -81,26 +54,6 @@ v1.2(20210805)<br>
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/remotesup.jpg)
 
 </details>
-</details>
-
-### 钍站
-
-需要放入钍来启动(也可自启动)，启动过程会轻微负电。Plus版有更多的炮塔但修复器不能将其完全覆盖。<br>
-
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tu.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tu.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tu.txt)<br>
-PLUS获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/tuplus.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/tuplus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/tuplus.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tu.png)
-![PLUS预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/tuplus.png)
-
 </details>
 
 ### 通用跟随
@@ -213,20 +166,6 @@ v1.1(20210825)<br>
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/thpush.jpg)
-
-</details>
-
-### 污水石墨幽灵
-放在污水里才能正常工作。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dirtywater.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dirtywater.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dirtywater.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dirtywater.jpg)
-
 
 </details>
 
@@ -359,19 +298,6 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/sforce.jpg)
-
-</details>
-
-### 五连冷冻液
-下方进料，自带一个罐体。<br>
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/x5fluid.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/x5fluid.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/x5fluid.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/x5fluid.jpg)
 
 </details>
 
