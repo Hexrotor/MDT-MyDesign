@@ -520,4 +520,7 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 点击查看：[MAPS.md](/MAPS.md)
 
 一些装饰品。<br>
-点击查看：[ART.md](ART.md)
+点击查看：[ART.md](/ART.md)
+
+出口版蓝图。<br>
+点击查看：[/export](/export)
