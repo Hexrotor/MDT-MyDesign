@@ -172,6 +172,21 @@ v1.1(20210825)<br>
 ## 生产
 这些蓝图与生产物资、后勤有关。
 
+### 贴核T5无冷冻液
+(20220127)<br>
+支持任意单位，只需自行修改单位工厂即可。贴核运作，单T5厂满效率，无内置冷冻液、超速。内置一个单位统计逻辑。<br>
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coret5.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coret5.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coret5.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coret5.jpg)
+
+</details>
+
 ### Mega自动采矿+攻击闪避
 (20210910)<br>
 调用巨像自动开采核心内最少的物品(铜铅钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动寻找维修点。优先攻击敌人，并反复横跳躲避攻击。本逻辑兼容所有可飞行的矿机，自行更改`UnitBind`即可(对于开采等级低的单位会出问题，可以通过分类器强制指定开采矿物)。由于技术原因自动修复功能仅对巨像单位开放。<br>
