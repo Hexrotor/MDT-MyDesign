@@ -498,6 +498,16 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 
 预计一年后开始制作。
 
+### 核心双T5
+目前模板做好了，但没有写逻辑，欢迎大家尝试。这里说一下逻辑的基本思路。<br>
+左上角三个unloader<br>
+第一个专供t4重构厂<br>
+第二个调为null的时候供unit factory，调为钛/玻璃的时候供t2重构厂，两种情况中下方反sorter必须是null。把下方反sorter禁用后变成正sorter，此时可以供T4重构厂或t2重构厂的硅，注意不能供钛，否则就卡死了<br>
+第三个供石墨，塑钢，硅，最好不供钛，否则要把下方反sorter禁用变成正sorter，但是变成正sorter的话第二个unloader就要调整，变成了一换一所以并没有什么卵用。要注意石墨不能供多了否则卡死了，数量设成40就ok<br>
+另外，我只是粗略地手操测试了下供料，我感觉能同时跑满两个t4重构厂。如果大家逻辑写好了但发现跑不满，我很抱歉🥺 可以尝试自己改动优化一下(逃<br>
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/dualt5.txt)<br>
+
 # 黑历史蓝图
 
 这些蓝图只能在旧版本正常工作且不会再更新。
