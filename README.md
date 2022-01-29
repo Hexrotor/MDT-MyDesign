@@ -187,6 +187,22 @@ v1.1(20210825)<br>
 
 </details>
 
+### 核心双T5
+(20220129)<br>
+此蓝图可能不稳定不建议在重要场合使用。游戏时请使用蓝图功能来放置，直接复制地图上的可能会出问题。<br>
+本蓝图在`Unit production speed = 1.0x`时测试通过。<br>
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dualt5.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dualt5.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt5.jpg)
+
+</details>
+
 ### Mega自动采矿+攻击闪避
 (20210910)<br>
 调用巨像自动开采核心内最少的物品(铜铅钛)同时保留自动修复，可手动选择开采物，扣血量超过10自动寻找维修点。优先攻击敌人，并反复横跳躲避攻击。本逻辑兼容所有可飞行的矿机，自行更改`UnitBind`即可(对于开采等级低的单位会出问题，可以通过分类器强制指定开采矿物)。由于技术原因自动修复功能仅对巨像单位开放。<br>
@@ -498,8 +514,9 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 
 预计一年后开始制作。
 
-### 核心双T5
-目前模板做好了，但没有写逻辑，欢迎大家尝试。这里说一下逻辑的基本思路。<br>
+### ~~核心双T5~~
+已完工:[核心双T5](#核心双T5)<br>
+~~目前模板做好了，但没有写逻辑~~，欢迎大家尝试。这里说一下逻辑的基本思路。<br>
 左上角三个unloader<br>
 第一个专供t5厂<br>
 第二个调为null的时候供unit factory，调为钛/玻璃的时候供t3厂，两种情况中，下方反sorter必须是null。把下方反sorter禁用后变成正sorter，此时可以供T5厂或t3厂的硅，注意不能供钛，否则就卡死了<br>
