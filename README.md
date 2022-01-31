@@ -189,8 +189,8 @@ v1.1(20210825)<br>
 
 ### 核心双T5
 (20220129)<br>
-此蓝图可能不稳定不建议在重要场合使用。游戏时请使用蓝图功能来放置，直接复制地图上的可能会出问题。<br>
-本蓝图在`Unit production speed = 1.0x`时测试通过。<br>
+此蓝图可能不稳定，不建议在重要场合使用。游戏时请使用蓝图功能来放置，直接复制地图上的可能会出问题。<br>
+本蓝图在`Unit production speed = 1.0x`、60fps时测试通过。<br>
 
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5.txt)
