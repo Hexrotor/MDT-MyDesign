@@ -190,7 +190,7 @@ v1.1(20210825)<br>
 ### 核心双T5
 (20220129)<br>
 此蓝图可能不稳定，不建议在重要场合使用。游戏时请使用蓝图功能来放置，直接复制地图上的可能会出问题。<br>
-本蓝图在`Unit production speed = 1.0x`、60fps时测试通过。<br>
+本蓝图在`Unit production speed` = `1.0`、60fps时测试通过。<br>
 
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5.txt)
@@ -200,6 +200,22 @@ v1.1(20210825)<br>
 <details><summary>展开图片</summary>
 
 ![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt5.jpg)
+
+</details>
+
+### 核心双T5增强版
+(20220202)<br>
+本蓝图在`unit production speed` = `1.0`、fps60时测试通过。<br>
+从左往右数的第二个桥带不应连接到任何桥带，若发现其自动连接，请手动断开。Anuke said he wont fix this at (#6547)[https://github.com/Anuken/Mindustry/issues/6547#issuecomment-1027159145]<br>
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5_plus.txt)
+[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dualt5_plus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dualt5_plus.txt)
+
+<details><summary>展开图片</summary>
+
+![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt5_plus.jpg)
 
 </details>
 
