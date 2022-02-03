@@ -352,7 +352,7 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 这里可能是一些工具，或者一些娱乐向蓝图。
 
 ### 全局监视器
-v1.5(20211121)<br>
+v1.5(20220203)<br>
 显示屏显示：单位个数(0\~99)、净发电量(0K\~99K)、能量I/O记录和核心物品统计(需要生产任意一种单位)。信息板额定显示范围：单位个数(0\~999)；核心物品(0\~999M)。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)
@@ -499,6 +499,9 @@ sensor\&print<br>
 16.stackunit<br>
 叠放灾星。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/stackunit.txt)<br>
+17.batterymeter<br>
+电池扇形表<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/batterymeter.txt)<br>
 
 </details>
 
