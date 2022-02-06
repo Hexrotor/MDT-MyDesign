@@ -558,6 +558,11 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/dualt5.txt)<br>
 
+### 红绿灯
+用Sorter实现，只做了一点，没时间做了，以后填这个坑(<br>
+
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/trafclit.txt)<br>
+
 # 黑历史蓝图
 
 这些蓝图只能在旧版本正常工作且不会再更新。
