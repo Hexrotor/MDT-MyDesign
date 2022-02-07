@@ -516,6 +516,10 @@ sensor\&print<br>
 17.batterymeter<br>
 电池扇形表<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/batterymeter.txt)<br>
+18.autorotate<br>
+炮塔自动旋转<br>
+`i`为每次旋转角度，`halfrange`为旋转半角，手操炮塔来定位。<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorotate.txt)<br>
 
 </details>
 
