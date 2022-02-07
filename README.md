@@ -520,6 +520,12 @@ sensor\&print<br>
 炮塔自动旋转<br>
 `i`为每次旋转角度，`halfrange`为旋转半角，手操炮塔来定位。<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorotate.txt)<br>
+19.bindata_demo<br>
+二进制存储数据<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/bindata.txt)<br>
+20.hex2dec<br>
+分类器输入hex，内部转换为dec<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hex2dec.txt)<br>
 
 </details>
 
