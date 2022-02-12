@@ -557,16 +557,8 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 
 预计一年后开始制作。
 
-### ~~核心双T5~~
-已完工:[核心双T5](#核心双T5)<br>
-~~目前模板做好了，但没有写逻辑~~，欢迎大家尝试。这里说一下逻辑的基本思路。<br>
-左上角三个unloader<br>
-第一个专供t5厂<br>
-第二个调为null的时候供unit factory，调为钛/玻璃的时候供t3厂，两种情况中，下方反sorter必须是null。把下方反sorter禁用后变成正sorter，此时可以供T5厂或t3厂的硅，注意不能供钛，否则就卡死了<br>
-第三个供石墨，塑钢，硅，最好不供钛，否则要把下方反sorter禁用变成正sorter，但是变成正sorter的话第二个unloader就要调整，变成了一换一所以并没有什么卵用。要注意石墨不能供多了否则卡死了，数量设成40就ok<br>
-另外，我只是粗略地手操测试了下供料，我感觉能同时跑满两个t5厂。如果大家逻辑写好了但发现跑不满，我很抱歉🥺 可以尝试自己改动优化一下(逃<br>
-
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/dualt5.txt)<br>
+### MapCustomizable LogicGame
+利用二进制储存地图数据(见[19.bindata_demo](#Demos))，再以十六进制形式导出(发布、分享)地图数据。输入地图数据使用sorter([见[20.hex2dec](#Demos))，故相应的十六进制数字也可由物品代号或图标(如信息板内图标)代替。
 
 ### 红绿灯
 用Sorter实现，只做了一点，没时间做了，以后填这个坑(<br>
