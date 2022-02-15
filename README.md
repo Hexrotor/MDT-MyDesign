@@ -511,6 +511,12 @@ sensor\&print<br>
 分类器输入hex，内部转换为dec<br>
 [获取hex2dec](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/hex2dec.txt)<br>
 [获取hexcolor_input](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/hexcolor_input.txt)<br>
+21.hex2bin_with_xor_encryption<br>
+对于一次一密的一点探索。顺便做了hex2item<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/hex2bin_with_xor_encryption.txt)<br>
+22.xor_value_image<br>
+`y=x(xor)m`<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/xor_value_image.txt)<br>
 
 </details>
 
