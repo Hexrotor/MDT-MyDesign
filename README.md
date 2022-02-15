@@ -1,4 +1,4 @@
-# Mindustry-Myblueprint
+# MDT-MyDesign
 个人重要数据备份，包含一些黑历史。蓝图等未照搬他人作品，部分有参考。如有雷同纯属雷同，欢迎体验！<br>
 __此处列出的蓝图逻辑均未在服务器测试过，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
 
@@ -14,7 +14,7 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<
 贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)<br>
 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
 
-[![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/Mindustry-Myblueprint/badge?style=rounded)](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint@main/)
+[![](https://data.jsdelivr.com/v1/package/gh/Hexrotor/MDT-MyDesign/badge?style=rounded)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 
 ## 攻击
 这里包含攻击相关的蓝图。
@@ -24,13 +24,13 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<
 **没有调用冲突检测!**<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/takeitem.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/takeitem.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/takeitem.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/takeitem.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/takeitem.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/takeitem.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/takeitem.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/takeitem.jpg)
 
 </details>
 
@@ -45,13 +45,13 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<
 容器、处理器、开关与装卸器是必要的，其他部分均可自由搭配。如果你想调整位置，则需要重新配置处理器。<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/remotesup.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/remotesup.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/remotesup.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/remotesup.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/remotesup.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/remotesup.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/remotesup.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/remotesup.jpg)
 
 </details>
 </details>
@@ -72,13 +72,13 @@ v1.2<br>
 
 **没有调用冲突检测！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/followplayer1.2.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/followplayer1.2.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/followplayer1.2.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/followplayer1.2.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/followplayer1.2.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/followplayer1.2.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/followplayer1.2.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/followplayer1.2.jpg)
   
 </details>
 
@@ -93,13 +93,13 @@ v1.1(20210825)<br>
 
 **没有调用冲突检测！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/arkyid.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/arkyid.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/arkyid.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/arkyid.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/arkyid.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/arkyid.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/arkyid.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/arkyid.jpg)
 
 </details>
 
@@ -112,13 +112,13 @@ v1.1(20210825)<br>
 
 **没有调用冲突检测！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/movepoint.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/movepoint.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/movepoint.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/movepoint.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/movepoint.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/movepoint.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/movepoint.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/movepoint.jpg)
 
 </details>
 
@@ -127,13 +127,13 @@ v1.1(20210825)<br>
 
 **没有调用冲突检测！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/airctrl.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/airctrl.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/airctrl.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/airctrl.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/airctrl.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/airctrl.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/airctrl.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/airctrl.jpg)
 
 </details>
 
@@ -143,13 +143,13 @@ v1.1(20210825)<br>
 
 **仅调用闲置的单位，调用的单位会被赋予随机flag值以供其余处理器区分，结束后恢复flag值为0。当心你的支援单位被误伤！**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autoboom.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/autoboom.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/autoboom.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autoboom.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/autoboom.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/autoboom.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/autoboom.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/autoboom.jpg)
 
 </details>
 
@@ -159,13 +159,13 @@ v1.1(20210825)<br>
 总之，这个逻辑十分危险，不要轻易使用它。自带的开关可以停用其所有功能。<br>
 **仅调用符合要求的、闲置的雷霆单位。如果构建钍堆的雷霆单位不存在，则调用一个幻型构建。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/thpush.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/thpush.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/thpush.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/thpush.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/thpush.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/thpush.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/thpush.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/thpush.jpg)
 
 </details>
 
@@ -177,13 +177,13 @@ v1.1(20210825)<br>
 支持任意单位，只需自行修改单位工厂即可。贴核运作，单T5厂满效率，无内置冷冻液、超速。内置一个单位统计逻辑。<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coret5.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coret5.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coret5.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/coret5.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/coret5.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/coret5.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coret5.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/coret5.jpg)
 
 </details>
 
@@ -193,13 +193,13 @@ v1.1(20210825)<br>
 从左往右数的第二个桥带不应连接到任何桥带，若发现其自动连接，请手动断开。Anuke said he wont fix this at [#6547](https://github.com/Anuken/Mindustry/issues/6547#issuecomment-1027159145)<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5_plus.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dualt5_plus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dualt5_plus.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/dualt5_plus.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/dualt5_plus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/dualt5_plus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt5_plus.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/dualt5_plus.jpg)
 
 </details>
 
@@ -207,13 +207,13 @@ v1.1(20210825)<br>
 (20220204)<br>
 支持任意单位，在`unit production speed` = `1`，fps60时测试通过。<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt4.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dualt4.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dualt4.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/dualt4.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/dualt4.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/dualt4.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt4.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/dualt4.jpg)
 
 </details>
 
@@ -223,13 +223,13 @@ v1.1(20210825)<br>
 
 **仅调用闲置的0flag单位。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/megaplus.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/megaplus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/megaplus.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/megaplus.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/megaplus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/megaplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/megaplus.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/megaplus.jpg)
 
 </details>
 
@@ -239,13 +239,13 @@ v1.1(20210825)<br>
 
 **仅调用未被处理器控制的单位。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/repairuni.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/repairuni.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/repairuni.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/repairuni.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/repairuni.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/repairuni.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/repairuni.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/repairuni.jpg)
 
 </details>
 
@@ -255,13 +255,13 @@ v1.1(20210825)<br>
 
 **仅调用未被处理器控制的单位。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/polyc.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/polyc.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/polyc.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/polyc.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/polyc.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/polyc.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/polyc.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/polyc.jpg)
 
 </details>
 
@@ -270,13 +270,13 @@ v1.1(20210825)<br>
 
 **调用单位可自行修改，仅调用闲置的单位，调用的单位会被赋予同一随机flag值以供其余处理器区分。由于技术原因flag值不会恢复，但不影响本逻辑的运行。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/itemtrans.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/itemtrans.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/itemtrans.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/itemtrans.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/itemtrans.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/itemtrans.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/itemtrans.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/itemtrans.jpg)
 
 </details>
 
@@ -293,13 +293,13 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 
 **没有调用冲突检测！调用单位可自行修改，仅调用符合条件的单位，调用中的单位会被赋予唯一flag值以供其余处理器区分。请注意单位的payload容量。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/paytrans.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/paytrans.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/paytrans.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/paytrans.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/paytrans.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/paytrans.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/paytrans.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/paytrans.jpg)
 
 
 </details>
@@ -310,39 +310,39 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 左下处理器可自定义的值：`$幻型数量`<br>
 **由于集成了多个逻辑，请去各逻辑描述处查看注意事项。**<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/coreunit.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/coreunit.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/coreunit.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/coreunit.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/coreunit.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/coreunit.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/coreunit.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/coreunit.jpg)
 
 </details>
 
 ### 废料大超速
 可能需要一些时间才能稳定运行，可以放入相织物使其稳定。<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/fwbooster.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/fwbooster.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/fwbooster.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/fwbooster.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/fwbooster.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/fwbooster.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/fwbooster.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/fwbooster.jpg)
 
 </details>
 
 ### 智能力墙
 人手一个的智能力墙。<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sforce.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/sforce.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/sforce.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/sforce.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/sforce.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/sforce.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/sforce.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/sforce.jpg)
 
 </details>
 
@@ -353,13 +353,13 @@ Notice: 距离匹配造成匹配效率降低，现默认关闭。要启用，请
 v1.5(20220203)<br>
 显示屏显示：单位个数(0\~99)、净发电量(0K\~99K)、能量I/O记录和核心物品统计(需要生产任意一种单位)。信息板额定显示范围：单位个数(0\~999)；核心物品(0\~999M)。这可能是我技术力的极限了，转载请保留内置信息板以便用户获取后续更新。<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitorplus.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitorplus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitorplus.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/monitorplus.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/monitorplus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/monitorplus.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitorplus.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/monitorplus.jpg)
 
 </details>
 
@@ -369,13 +369,13 @@ v1.5(20220203)<br>
 为避免混乱，效率与进程曲线不会被绘制，进程进度被绘制为横向移动的紫色进度条。<br>
 处理器内可自定义的值：`$检测荷载`、`$x轴增量`、`$速率更新间隔`<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/monitor.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/monitor.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/monitor.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/monitor.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/monitor.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/monitor.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/monitor.png)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/monitor.png)
 
 </details>
 
@@ -384,13 +384,13 @@ v1.5(20220203)<br>
 使用冰雹炮的雷达搜索一个单位，测算其血量变化速率，将相关结果打印到信息板。<br>
 处理器内可自定义的项：`$血量检测秒`、`$连续搜索`、`Rader`<br>
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unithealthtester.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/unithealthtester.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/unithealthtester.txt)
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/unithealthtester.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/unithealthtester.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/unithealthtester.txt)
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/unithealthtester.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/unithealthtester.jpg)
 
 </details>
 
@@ -406,13 +406,13 @@ v1.2(20220127)<br>
 仅调用未被控制的单位。<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/buildhelper_plus.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/buildhelper_plus.txt)<br>
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/buildhelper_plus.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/buildhelper_plus.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/buildhelper_plus.txt)<br>
 
 <details><summary>展开图片</summary>
 
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/buildhelper_plus.jpg)
+![预览](https://hexrotor.github.io/MDT-MyDesign/images/schematics/buildhelper_plus.jpg)
 
 </details>
 
@@ -420,9 +420,9 @@ v1.2(20220127)<br>
 如果选择的物品在核心中已满，则禁用连接到的荷载。需要存在任意可被绑定的单位。<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disableifhomefull.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/disableifhomefull.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/disableifhomefull.txt)<br>
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/disableifhomefull.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/disableifhomefull.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/disableifhomefull.txt)<br>
 
 就一个微核，不放图了。
 
@@ -434,9 +434,9 @@ v1.2(20220127)<br>
 * 当连接到的荷载内冷冻液<1，荷载会被禁用。此行为用于钍反防爆故具有最高优先级。但微核速度较慢，效果不佳。<br>
 
 获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unireactorc.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/unireactorc.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/unireactorc.txt)<br>
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/unireactorc.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/unireactorc.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/unireactorc.txt)<br>
 
 ### Demos
 演示系列<br>
@@ -448,69 +448,69 @@ v1.2(20220127)<br>
 1.aidemo<br>
 使一种单位满地图乱跑并攻击敌人，直到接近敌人出生点后停下。<br>
 原理是检测前方地形是否能通过，若遇到墙则进行一组运算来面向一定夹角范围内的随机方向继续前进。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/aidemo.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/aidemo.txt)<br>
 2.pdemo<br>
 按顺序数数并打印到信息板。这是对非IO式数据保存方式的一种猜测。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/pdemo.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/pdemo.txt)<br>
 3.vdemo<br>
 像传统的波形监视器一样显示仓库内铜数量的变化，是将"pdemo"工作方式应用到显示面板的产物。是模仿别人的但是没模仿像，用了很多代码，比别人的延迟高很多。到现在我也不知道这个效果该怎么做。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/vdemo.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/vdemo.txt)<br>
 4.random<br>
 在显示屏上随机显示很多有色点，最后铺满。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/random.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/random.txt)<br>
 5.autobuild/multibuild<br>
 通过电弧控制一个或所有poly修建一组纯电攻守结构。半成品，思路不清晰，写得非常乱，效果不太好。是模仿别人做的。<br>
 autobuild只控制一个poly，multibuild控制所有poly。<br>
 个人感想：原来建造中的建筑类型是`build&size`；使用随机参数圆的效果不如直接随机坐标，推测是因为圆心角在随机值中能生成的有效份有很大局限性，微小的圆心角变化也会在大半径圆的圆弧上造成很大的差异，这可能使得用这种方式找到空闲区域放置荷载的效率不佳。<br>
-[获取autobuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autobuild.txt)<br>
-[获取multibuild](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/multibuild.txt)<br>
+[获取autobuild](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autobuild.txt)<br>
+[获取multibuild](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/multibuild.txt)<br>
 6.buildhelper<br>
 调用一个poly在处理器上方构造一个荷载。需要自行设置荷载类型、荷载边长、荷载方向。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/buildhelper.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/buildhelper.txt)<br>
 7.sensor<br>
 本人调试逻辑构造用的工具，传感与之链接的建筑的坐标等数据并打印到信息板，会调用所有poly。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/sensor.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/sensor.txt)<br>
 8.unindex<br>
 依赖Lookup指令，依次列出荷载方块，打印图像、名称和ID。理论上通用。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/unindex.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/unindex.txt)<br>
 9.autorepair<br>
 尝试用一种简单的逻辑让受损的poly和mega自动前往维修点。如果没有维修点，会停在核心。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorepair.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autorepair.txt)<br>
 10.arctrl<br>
 像摇杆一样控制一种单位移动并射击。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/yg.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/yg.txt)<br>
 11.birdgame<br>
 控制小飞机跳跃并避开障碍物。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/birdgame.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/birdgame.txt)<br>
 12.disableifpowerfull<br>
 当连接到的荷载所在电网耗电量低于发电量时，将其禁用。我将其用于自动启动备用电源。稍加改动代码可以实现反向工作。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/disifpowerfull.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/disifpowerfull.txt)<br>
 13.memreader<br>
 读取内存。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/memreader.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/memreader.txt)<br>
 14.g<br>
 模拟单摆。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/g.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/g.txt)<br>
 15.anysensor<br>
 sensor\&print<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/anysensor.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/anysensor.txt)<br>
 16.stackunit<br>
 叠放灾星。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/stackunit.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/stackunit.txt)<br>
 17.batterymeter<br>
 电池扇形表<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/batterymeter.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/batterymeter.txt)<br>
 18.autorotate<br>
 炮塔自动旋转<br>
 `i`为每次旋转角度，`halfrange`为旋转半角，手操炮塔来定位。<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/autorotate.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autorotate.txt)<br>
 19.bindata_demo<br>
 二进制存储数据<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/bindata.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/bindata.txt)<br>
 20.hex2dec<br>
 分类器输入hex，内部转换为dec<br>
-[获取hex2dec](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hex2dec.txt)<br>
-[获取hexcolor_input](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hexcolor_input.txt)<br>
+[获取hex2dec](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/hex2dec.txt)<br>
+[获取hexcolor_input](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/hexcolor_input.txt)<br>
 
 </details>
 
@@ -521,7 +521,7 @@ sensor\&print<br>
 最初构想：依赖`lookup`。从数字t开始lookup unit类型保存为`unitresult` ，然后进入`unitresult`的数量检测程序，将值存在内存t位。另一个处理器依次读取内存位，并`lookup`内存位表示的unit，直接循环就能打印出来。<br>
 20210816<br>
 计数部分制作完成，现正着手构建图像部分。目前在规划位置以计算坐标，以及构建数字显示模块。由于我从未研究过数字显示，这可能需要花一点时间。<br>
-[获取计数模块](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/basic.txt)<br>
+[获取计数模块](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/basic.txt)<br>
 20210817<br>
 制作完成。<br>
 [全局监视器](#全局监视器)<br>
@@ -549,7 +549,7 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 ### 红绿灯
 用Sorter实现，只做了一点，没时间做了，以后填这个坑(<br>
 
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/beta/trafclit.txt)<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/beta/trafclit.txt)<br>
 
 # 黑历史蓝图
 
@@ -564,8 +564,8 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 <details><summary>展开描述</summary>
 需要大面积的水，局限性很大。<br>
 
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/water.png)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/water.txt)<br>
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/oldversions/v6/126.2/images/water.png)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/oldversions/v6/126.2/base64text/water.txt)<br>
 
 </details>
 
@@ -574,8 +574,8 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 <details><summary>展开描述</summary>
 需要小面积水，大面积空地。<br>
 
-[预览](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/images/waterplus.png)
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/oldversions/v6/126.2/base64text/waterplus.txt)
+[预览](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/oldversions/v6/126.2/images/waterplus.png)
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/oldversions/v6/126.2/base64text/waterplus.txt)
 
 </details>
 </details>
@@ -591,4 +591,4 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 点击查看：[ART.md](/ART.md)
 
 出口版蓝图。<br>
-点击查看：[/export](/export)
+点击查看：[export](/export)
