@@ -187,22 +187,6 @@ v1.1(20210825)<br>
 
 </details>
 
-### 核心双T5
-(20220129)<br>
-此蓝图可能不稳定，不建议在重要场合使用。游戏时请使用蓝图功能来放置，直接复制地图上的可能会出问题。<br>
-本蓝图在`Unit production speed` = `1.0`、60fps时测试通过。<br>
-
-获取：
-[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/dualt5.txt)
-[PAGE](https://hexrotor.github.io/Mindustry-Myblueprint/base64text/dualt5.txt)
-[RAW](https://raw.githubusercontent.com/Hexrotor/Mindustry-Myblueprint/main/base64text/dualt5.txt)
-
-<details><summary>展开图片</summary>
-
-![预览](https://hexrotor.github.io/Mindustry-Myblueprint/images/schematics/dualt5.jpg)
-
-</details>
-
 ### 核心双T5增强版
 (20220202)<br>
 本蓝图在`unit production speed` = `1.0`、fps60时测试通过。<br>
@@ -525,7 +509,8 @@ sensor\&print<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/bindata.txt)<br>
 20.hex2dec<br>
 分类器输入hex，内部转换为dec<br>
-[获取](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hex2dec.txt)<br>
+[获取hex2dec](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hex2dec.txt)<br>
+[获取hexcolor_input](https://cdn.jsdelivr.net/gh/Hexrotor/Mindustry-Myblueprint/base64text/hexcolor_input.txt)<br>
 
 </details>
 
