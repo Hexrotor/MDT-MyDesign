@@ -555,7 +555,7 @@ arc 1 用于确定Payload Unloader的位置，因为Payload Unloader被作为卸
 ### MsgSync
 类似IM，需要3行输入器，输入字母与基本标点。字符使用ASCII编码标准储存为数字，逻辑最大数字为2^1023(1024位二进制，但只能利用1023位)，每个ASCII字符需要8位二进制(似乎7位也行)，所以一个数据最大能储存127个字符。利用Unit远程getblock mem可实现远程数据交换。<br>
 数据交换具体实现方式：基站(1mciro 1mem 1unit 1msg)<br>
-基站unit flag格式为`xor-data``memx``memy``state`. `memx`、`memy`为内存坐标，每值3位数字；`xor-data`为`memx`与`memy`进行xor位运算所得值；`state`为1位状态码，暂未确认其作用，大概会用于检测是否有其他逻辑抢占干扰unit。client先验证`xor-data`来判断此unit是否为基站unit，若验证成功，则getblock mem。重载时，若基站搜索到unit满足flag格式且未受控，则更改其flag并占用。若client搜索到标准unit但其未受控，则clear flag。目前的问题是基站如何才能判断unit是被其他逻辑干扰而不是在被client使用。首先flag如果格式都变了，那肯定被干扰了，其次是直接控制而不修改flag类的干扰。
+基站unit flag格式为`xor-data` `memx` `memy` `state`. `memx`、`memy`为内存坐标，每值3位数字；`xor-data`为`memx`与`memy`进行xor位运算所得值；`state`为1位状态码，暂未确认其作用，大概会用于检测是否有其他逻辑抢占干扰unit。client先验证`xor-data`来判断此unit是否为基站unit，若验证成功，则getblock mem。重载时，若基站搜索到unit满足flag格式且未受控，则更改其flag并占用。若client搜索到标准unit但其未受控，则clear flag。目前的问题是基站如何才能判断unit是被其他逻辑干扰而不是在被client使用。首先flag如果格式都变了，那肯定被干扰了，其次是直接控制而不修改flag类的干扰。
 
 ### 红绿灯
 用Sorter实现，只做了一点，没时间做了，以后填这个坑(<br>
