@@ -15,6 +15,7 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<
 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
 
 [![](https://img.shields.io/jsdelivr/gh/hm/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
+![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
 
 ## 攻击
 这里包含攻击相关的蓝图。
