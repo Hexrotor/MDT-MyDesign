@@ -1,6 +1,5 @@
 # MDT-MyDesign
-个人重要数据备份，包含一些黑历史。蓝图等未照搬他人作品，部分有参考。如有雷同纯属雷同，欢迎体验！<br>
-__此处列出的蓝图逻辑均未在服务器测试过，请自行判断。如果执意要带入服务器使用，被骂了与我无关。__<br>
+个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
 
 要快速查找蓝图，请点击上方"README.md"左侧的图标
 <img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
@@ -9,7 +8,7 @@ __此处列出的蓝图逻辑均未在服务器测试过，请自行判断。如
 jsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。<br>
 RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
 
-**注意，我的游戏版本为`135`**<br>
+**注意，我的游戏版本为`135`，游戏最新版本为** ![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)<br>
 
 贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)<br>
 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
