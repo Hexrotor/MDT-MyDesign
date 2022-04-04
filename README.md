@@ -12,17 +12,18 @@
 ## 开始
 
 要快速查找蓝图，请点击上方"README.md"左侧的图标
-<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
-或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
+<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="28" height="28"/>
+或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。
 
-JsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。<br>
-RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
+JsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。
 
-**注意，我的游戏版本为`135.2`**<br>
+RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
+
+**注意，我的游戏版本为`135.2`**
+
 获取最新：
 
-[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://github.com/Anuken/Mindustry/releases)<br>
-[itch.io](https://anuke.itch.io/mindustry/)
+[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/)
 
 ## 攻击
 这里包含攻击相关的蓝图。
