@@ -5,7 +5,9 @@
 
 个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
 
-贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066) 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
+贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)
+
+鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)
 
 ## 开始
 
@@ -17,8 +19,9 @@ JsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即
 RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
 
 **注意，我的游戏版本为`135.2`**<br>
-获取游戏最新版本：
-[Github![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://github.com/Anuken/Mindustry/releases)<br>
+获取最新：
+
+[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://github.com/Anuken/Mindustry/releases)<br>
 [itch.io](https://anuke.itch.io/mindustry/)
 
 ## 攻击
