@@ -1,4 +1,5 @@
 # MDT-MyDesign
+![mdtlogo](https://cdn.jsdelivr.net/gh/Anuken/Mindustry@master/core/assets-raw/sprites/ui/logo.png)
 
 [![](https://img.shields.io/jsdelivr/gh/hm/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
