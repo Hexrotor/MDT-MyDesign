@@ -1,21 +1,27 @@
 # MDT-MyDesign
-个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
-
-要快速查找蓝图，请点击上方"README.md"左侧的图标
-<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="32" height="32"/>
-或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。<br>
-
-jsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。<br>
-RAW链接与Page链接实时同步最新文件，但国内有时无法访问。<br>
-
-**注意，我的游戏版本为`135`**<br>
-游戏最新版本为![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)<br>
-
-贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)<br>
-鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)<br>
 
 [![](https://img.shields.io/jsdelivr/gh/hm/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
+
+个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
+
+贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)
+
+鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)
+
+## 开始
+
+要快速查找蓝图，请点击上方"README.md"左侧的目录图标或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。
+
+JsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。
+
+RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
+
+**注意，我的游戏版本为`135.2`**
+
+获取最新：
+
+[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/)
 
 ## 攻击
 这里包含攻击相关的蓝图。
