@@ -11,9 +11,7 @@
 
 ## 开始
 
-要快速查找蓝图，请点击上方"README.md"左侧的图标
-<img src="https://css.gg/layout-list.svg" alt="列表图标" title="List" width="28" height="28"/>
-或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。
+要快速查找蓝图，请点击上方"README.md"左侧的目录图标或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。
 
 JsDelivrCDN链接能保证访问，但缓存更新约有24h延迟，无法立即获取最新文件。
 
