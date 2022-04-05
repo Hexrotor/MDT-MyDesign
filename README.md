@@ -1,7 +1,9 @@
 # MDT-MyDesign
 ![mdtlogo](https://cdn.jsdelivr.net/gh/Anuken/Mindustry@master/core/assets-raw/sprites/ui/logo.png)
 
+[![](https://img.shields.io/jsdelivr/gh/hd/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 [![](https://img.shields.io/jsdelivr/gh/hm/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
+[![](https://img.shields.io/jsdelivr/gh/hy/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
 
 个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
