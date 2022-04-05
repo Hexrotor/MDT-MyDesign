@@ -196,7 +196,7 @@ v1.1(20210825)<br>
 </details>
 
 ### 核心双T5增强版
-(20220202)<br>
+(20220405)<br>
 本蓝图在`unit production speed` = `1.0`、fps60时测试通过。<br>
 从左往右数的第二个桥带不应连接到任何桥带，若发现其自动连接，请手动断开。Anuke said he wont fix this at [#6547](https://github.com/Anuken/Mindustry/issues/6547#issuecomment-1027159145)<br>
 
