@@ -24,7 +24,7 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
 
 获取最新：
 
-[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/)
+[![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/purchase)
 
 ## 攻击
 这里包含攻击相关的蓝图。
