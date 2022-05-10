@@ -26,6 +26,10 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
 
 [![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/purchase)
 
+自编译Erekir分支版本：
+
+[![](https://img.shields.io/github/downloads/Hexrotor/MindustryBuilds_v7/total)](https://github.com/Hexrotor/MindustryBuilds_v7/releases)
+
 ## 攻击
 这里包含攻击相关的蓝图。
 
