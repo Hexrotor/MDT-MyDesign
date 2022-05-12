@@ -24,7 +24,13 @@ RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
 
 获取最新：
 
+Release：
+
 [![](https://img.shields.io/github/v/release/Anuken/Mindustry?include_prereleases)](https://anuke.itch.io/mindustry/purchase)
+
+BE：
+
+[![](https://img.shields.io/github/downloads/Anuken/MindustryBuilds/total)](https://github.com/Anuken/MindustryBuilds/releases)
 
 自编译Erekir分支版本：
 
