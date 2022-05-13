@@ -32,10 +32,6 @@ BE：
 
 [![](https://img.shields.io/github/downloads/Anuken/MindustryBuilds/total)](https://github.com/Anuken/MindustryBuilds/releases)
 
-自编译Erekir分支版本：
-
-[![](https://img.shields.io/github/downloads/Hexrotor/MindustryBuilds_v7/total)](https://github.com/Hexrotor/MindustryBuilds_v7/releases)
-
 ## 攻击
 这里包含攻击相关的蓝图。
 
