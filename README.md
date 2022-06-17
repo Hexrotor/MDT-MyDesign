@@ -6,7 +6,11 @@
 [![](https://img.shields.io/jsdelivr/gh/hy/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
 
-个人重要数据备份，包含一些黑历史。仅供学习和交流使用。<br>
+个人重要数据备份，包含一些黑历史，仅供学习和交流使用。
+
+另外，您应自行判断本仓库中的垃圾蓝图，并不使用它。
+
+注意，在v7正式版出之前，此仓库不会频繁更新。(我懒得研究新东西)
 
 贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)
 
@@ -16,7 +20,7 @@
 
 要快速查找蓝图，请点击上方"README.md"左侧的目录图标或按<kbd>Ctrl</kbd>+<kbd>F</kbd>搜索页内关键词。
 
-JsDelivrCDN链接速度快(但貌似挂了)，但缓存更新约有24h延迟，无法立即获取最新文件。
+JsDelivrCDN链接速度快，但缓存更新约有24h延迟，无法立即获取最新文件。
 
 RAW链接与Page链接实时同步最新文件，但国内有时无法访问。
 
@@ -189,7 +193,7 @@ v1.1(20210825)<br>
 这些蓝图与生产物资、后勤有关。
 
 ### 贴核T5无冷冻液
-(20220128)<br>
+(20220617)<br>
 支持任意单位，只需自行修改单位工厂即可。贴核运作，单T5厂满效率，无内置冷冻液、超速。内置一个单位统计逻辑。<br>
 
 获取：
