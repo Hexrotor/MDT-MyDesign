@@ -192,6 +192,17 @@ v1.1(20210825)<br>
 ## 生产
 这些蓝图与生产物资、后勤有关。
 
+### 超级无线工厂
+(20220806)<br>
+依赖于某不可描述的特性，在核心旁边实现无线快速装填工厂，效率自测。<br>
+此蓝图禁止在服务器使用，否则后果自负。<br>
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/superwirelessfactory_dual.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/superwirelessfactory_dual.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/superwirelessfactory_dual.txt)
+
+懒得放图片了，总之是一个T4带两个T5厂。
+
 ### 贴核T5无冷冻液
 (20220617)<br>
 支持任意单位，只需自行修改单位工厂即可。贴核运作，单T5厂满效率，无内置冷冻液、超速。内置一个单位统计逻辑。<br>
@@ -537,6 +548,10 @@ sensor\&print<br>
 22.xor_value_image<br>
 `y=x(xor)m`<br>
 [获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/xor_value_image.txt)<br>
+23.nocd<br>
+清除CD<br>
+[获取](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64tex
+t/superwirelessfactory.txt)<br>
 
 </details>
 
