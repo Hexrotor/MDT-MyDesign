@@ -192,9 +192,12 @@ v1.1(20210825)<br>
 ## 生产
 这些蓝图与生产物资、后勤有关。
 
-### 超级无线工厂
+### ~~超级无线工厂~~
 (20220806)<br>
-依赖于某不可描述的特性，在核心旁边实现无线快速装填工厂，效率自测。<br>
+(137only)
+依赖于某已被修复的bug，在核心旁边实现无线快速装填工厂，效率自测。<br>
+仅适用于137版本。<br>
+
 此蓝图禁止在服务器使用，否则后果自负。<br>
 获取：
 [CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/superwirelessfactory_dual.txt)
