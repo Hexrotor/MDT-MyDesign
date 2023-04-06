@@ -6,13 +6,11 @@
 [![](https://img.shields.io/jsdelivr/gh/hy/Hexrotor/MDT-MyDesign)](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign@main/)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Hexrotor.MDT-MyDesign)
 
+## 该仓库可能不再更新，因为我不玩这个游戏很久了
+
 个人重要数据备份，包含一些黑历史，仅供学习和交流使用。
 
 另外，您应自行判断本仓库中的垃圾蓝图，并不使用它。
-
-注意，在v7正式版出之前，此仓库不会频繁更新。(我懒得研究新东西)
-
-贴吧传送门：[旧贴](https://tieba.baidu.com/p/7369580895) [新贴](https://tieba.baidu.com/p/7477442066)
 
 鸣谢：[中文逻辑指南](https://github.com/LanluZ/Mindustry-guide)
 
