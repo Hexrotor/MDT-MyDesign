@@ -187,8 +187,31 @@ v1.1(20210825)<br>
 
 </details>
 
+### Auto Projector
+
+自动启动修复器，调用 Flare 添加布
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autoprojector.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/autoprojector.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/autoprojector.txt)
+
+### Auto Spiroct
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/autospiroct.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/autospiroct.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/autospiroct.txt)
+
 ## 生产
 这些蓝图与生产物资、后勤有关。
+
+### 塑钢环
+
+获取：
+[CDN](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/base64text/plastfactory.txt)
+[PAGE](https://hexrotor.github.io/MDT-MyDesign/base64text/plastfactory.txt)
+[RAW](https://raw.githubusercontent.com/Hexrotor/MDT-MyDesign/main/base64text/plastfactory.txt)
 
 ### ~~超级无线工厂~~
 (20220806)<br>
@@ -220,7 +243,7 @@ v1.1(20210825)<br>
 </details>
 
 ### 核心双T5增强版
-(20220405)<br>
+(20241109)<br>
 本蓝图在`unit production speed` = `1.0`、fps60时测试通过。<br>
 从左往右数的第二个桥带不应连接到任何桥带，若发现其自动连接，请手动断开。Anuke said he wont fix this at [#6547](https://github.com/Anuken/Mindustry/issues/6547#issuecomment-1027159145)<br>
 
