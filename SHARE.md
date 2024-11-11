@@ -29,3 +29,11 @@ Layout made by SW, parts taken from Absolutes design.<br>
 ![预览](https://hexrotor.github.io/MDT-MyDesign/share/images/scrapact_10x10.jpg)<br>
 
 </details>
+
+## 10 cryofluid without waterExtractor
+
+[Link](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/share/base64text/10cryoWithoutWater.txt)
+
+## 5 cryofluid with waterExtractor
+
+[Link](https://cdn.jsdelivr.net/gh/Hexrotor/MDT-MyDesign/share/base64text/5cryoWithWater.txt)
